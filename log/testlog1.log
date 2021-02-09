@@ -1,0 +1,1582 @@
+2018-11-22 08:06:42,392 [main] INFO ebanking - URL is opened
+2018-11-22 08:06:42,718 [main] INFO ebanking - Entered username
+2018-11-22 08:06:42,945 [main] INFO ebanking - Entered password
+2018-11-22 08:06:44,340 [main] INFO ebanking - Login test passed
+2018-11-23 06:59:39,910 [main] INFO ebanking - URL is opened
+2018-11-23 06:59:40,159 [main] INFO ebanking - Entered username
+2018-11-23 06:59:40,342 [main] INFO ebanking - Entered password
+2018-11-23 06:59:42,544 [main] INFO ebanking - Login test passed
+2018-11-23 07:10:35,432 [main] INFO ebanking - URL is opened
+2018-11-23 07:10:35,755 [main] INFO ebanking - Entered username
+2018-11-23 07:10:35,968 [main] INFO ebanking - Entered password
+2018-11-23 07:10:37,326 [main] INFO ebanking - Login test passed
+2018-11-23 07:13:11,746 [main] INFO ebanking - URL is opened
+2018-11-23 07:13:17,047 [main] INFO ebanking - Entered username
+2018-11-23 07:13:18,666 [main] INFO ebanking - Entered password
+2018-11-23 07:13:20,989 [main] INFO ebanking - Login test passed
+2018-11-23 07:14:14,479 [main] INFO ebanking - URL is opened
+2018-11-23 07:14:14,978 [main] INFO ebanking - Entered username
+2018-11-23 07:14:15,207 [main] INFO ebanking - Entered password
+2018-11-23 07:14:18,038 [main] INFO ebanking - Login test passed
+2018-11-23 07:30:16,264 [main] INFO ebanking - URL is opened
+2018-11-23 07:30:16,696 [main] INFO ebanking - Entered username
+2018-11-23 07:30:16,925 [main] INFO ebanking - Entered password
+2018-11-23 07:30:18,507 [main] INFO ebanking - Login test passed
+2018-11-24 06:39:12,523 [main] INFO ebanking - URL is opened
+2018-11-24 06:39:12,827 [main] INFO ebanking - Entered username
+2018-11-24 06:39:12,971 [main] INFO ebanking - Entered password
+2018-11-24 07:23:31,087 [main] INFO ebanking - user name provided
+2018-11-24 07:23:31,338 [main] INFO ebanking - password provided
+2018-11-24 07:23:35,883 [main] INFO ebanking - Login passed
+2018-11-24 07:23:41,171 [main] INFO ebanking - user name provided
+2018-11-24 07:23:41,940 [main] INFO ebanking - password provided
+2018-11-24 07:23:46,801 [main] INFO ebanking - user name provided
+2018-11-24 07:23:47,182 [main] INFO ebanking - password provided
+2018-11-24 07:23:51,933 [main] INFO ebanking - user name provided
+2018-11-24 07:23:52,219 [main] INFO ebanking - password provided
+2018-11-24 07:23:56,749 [main] INFO ebanking - Login passed
+2018-11-24 07:24:02,347 [main] INFO ebanking - user name provided
+2018-11-24 07:24:02,560 [main] INFO ebanking - password provided
+2018-11-24 07:54:34,201 [main] INFO ebanking - User name is provided
+2018-11-24 07:54:34,418 [main] INFO ebanking - Passsword is provided
+2018-11-24 07:54:39,590 [main] INFO ebanking - providing customer details....
+2018-11-24 07:54:48,653 [main] INFO ebanking - validation started....
+2018-11-24 07:54:48,730 [main] INFO ebanking - test case passed....
+2018-11-24 07:56:49,183 [main] INFO ebanking - URL is opened
+2018-11-24 07:56:49,436 [main] INFO ebanking - Entered username
+2018-11-24 07:56:49,618 [main] INFO ebanking - Entered password
+2018-11-24 07:57:00,690 [main] INFO ebanking - user name provided
+2018-11-24 07:57:00,836 [main] INFO ebanking - password provided
+2018-11-24 07:57:05,351 [main] INFO ebanking - Login passed
+2018-11-24 07:57:12,654 [main] INFO ebanking - user name provided
+2018-11-24 07:57:12,863 [main] INFO ebanking - password provided
+2018-11-24 07:57:19,331 [main] INFO ebanking - user name provided
+2018-11-24 07:57:19,521 [main] INFO ebanking - password provided
+2018-11-24 07:57:25,056 [main] INFO ebanking - user name provided
+2018-11-24 07:57:25,176 [main] INFO ebanking - password provided
+2018-11-24 07:57:29,487 [main] INFO ebanking - Login passed
+2018-11-24 07:57:36,479 [main] INFO ebanking - user name provided
+2018-11-24 07:57:36,615 [main] INFO ebanking - password provided
+2018-11-24 07:57:48,990 [main] INFO ebanking - User name is provided
+2018-11-24 07:57:49,140 [main] INFO ebanking - Passsword is provided
+2018-11-24 07:57:54,290 [main] INFO ebanking - providing customer details....
+2018-11-24 07:58:03,372 [main] INFO ebanking - validation started....
+2018-11-24 07:58:03,393 [main] INFO ebanking - test case passed....
+2018-11-24 08:00:42,420 [main] INFO ebanking - user name provided
+2018-11-24 08:00:42,689 [main] INFO ebanking - password provided
+2018-11-24 08:00:48,510 [main] INFO ebanking - user name provided
+2018-11-24 08:00:48,822 [main] INFO ebanking - password provided
+2018-11-24 08:00:54,700 [main] INFO ebanking - user name provided
+2018-11-24 08:00:55,015 [main] INFO ebanking - password provided
+2018-11-24 08:01:06,498 [main] INFO ebanking - URL is opened
+2018-11-24 08:01:06,690 [main] INFO ebanking - Entered username
+2018-11-24 08:01:06,863 [main] INFO ebanking - Entered password
+2018-11-24 08:01:08,353 [main] INFO ebanking - Login test passed
+2018-11-27 06:46:57,598 [main] INFO ebanking - URL is opened
+2018-11-27 06:46:57,912 [main] INFO ebanking - Entered username
+2018-11-27 06:46:58,082 [main] INFO ebanking - Entered password
+2018-11-27 06:46:59,490 [main] INFO ebanking - Login test passed
+2018-11-27 06:47:06,753 [main] INFO ebanking - User name is provided
+2018-11-27 06:47:06,945 [main] INFO ebanking - Passsword is provided
+2018-11-27 06:47:12,518 [main] INFO ebanking - providing customer details....
+2018-11-27 06:47:22,094 [main] INFO ebanking - validation started....
+2018-11-27 06:47:22,128 [main] INFO ebanking - test case passed....
+2018-11-27 07:07:41,422 [main] INFO ebanking - URL is opened
+2018-11-27 07:07:41,799 [main] INFO ebanking - Entered username
+2018-11-27 07:07:42,010 [main] INFO ebanking - Entered password
+2018-11-27 07:07:44,072 [main] INFO ebanking - Login test passed
+2018-11-27 07:07:51,443 [main] INFO ebanking - User name is provided
+2018-11-27 07:07:51,664 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:07:57,563 [main] INFO ebanking - providing customer details....
+2018-11-27 07:08:06,501 [main] INFO ebanking - validation started....
+2018-11-27 07:09:27,107 [main] INFO ebanking - URL is opened
+2018-11-27 07:09:27,361 [main] INFO ebanking - Entered username
+2018-11-27 07:09:27,590 [main] INFO ebanking - Entered password
+2018-11-27 07:09:29,131 [main] INFO ebanking - Login test passed
+2018-11-27 07:09:37,089 [main] INFO ebanking - User name is provided
+2018-11-27 07:09:37,251 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:09:43,571 [main] INFO ebanking - providing customer details....
+2018-11-27 07:09:56,913 [main] INFO ebanking - validation started....
+2018-11-27 07:09:56,947 [main] INFO ebanking - test case passed....
+2018-11-27 07:13:55,575 [main] INFO ebanking - URL is opened
+2018-11-27 07:13:55,850 [main] INFO ebanking - Entered username
+2018-11-27 07:13:56,057 [main] INFO ebanking - Entered password
+2018-11-27 07:13:57,451 [main] INFO ebanking - Login test passed
+2018-11-27 07:14:04,781 [main] INFO ebanking - User name is provided
+2018-11-27 07:14:04,918 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:14:10,040 [main] INFO ebanking - providing customer details....
+2018-11-27 07:14:21,394 [main] INFO ebanking - validation started....
+2018-11-27 07:14:21,430 [main] INFO ebanking - test case passed....
+2018-11-27 07:42:32,801 [main] INFO ebanking - URL is opened
+2018-11-27 07:42:33,008 [main] INFO ebanking - Entered username
+2018-11-27 07:42:33,130 [main] INFO ebanking - Entered password
+2018-11-27 07:42:36,278 [main] INFO ebanking - Login test passed
+2018-11-27 07:42:43,914 [main] INFO ebanking - User name is provided
+2018-11-27 07:42:44,046 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:42:49,371 [main] INFO ebanking - providing customer details....
+2018-11-27 07:43:02,036 [main] INFO ebanking - validation started....
+2018-11-27 07:43:02,081 [main] INFO ebanking - test case passed....
+2018-11-27 07:55:25,354 [main] INFO ebanking - URL is opened
+2018-11-27 07:55:26,413 [main] INFO ebanking - Entered username
+2018-11-27 07:55:26,604 [main] INFO ebanking - Entered password
+2018-11-27 07:55:27,991 [main] INFO ebanking - Login test passed
+2018-11-27 07:55:37,183 [main] INFO ebanking - User name is provided
+2018-11-27 07:55:37,365 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:55:42,851 [main] INFO ebanking - providing customer details....
+2018-11-27 07:55:58,716 [main] INFO ebanking - validation started....
+2018-11-27 07:55:58,749 [main] INFO ebanking - test case passed....
+2020-11-08 20:05:42,171 [main] INFO ebanking - URL is opened
+2020-11-08 20:05:43,046 [main] INFO ebanking - Entered username
+2020-11-08 20:05:43,137 [main] INFO ebanking - Entered password
+2020-11-08 20:06:00,349 [main] INFO ebanking - User name is provided
+2020-11-08 20:06:00,421 [main] INFO ebanking - Passsword is provided
+2020-11-08 20:13:51,942 [main] INFO ebanking - URL is opened
+2020-11-08 20:13:52,114 [main] INFO ebanking - Entered username
+2020-11-08 20:13:52,198 [main] INFO ebanking - Entered password
+2020-11-08 20:14:26,374 [main] INFO ebanking - User name is provided
+2020-11-08 20:14:26,458 [main] INFO ebanking - Passsword is provided
+2020-11-08 20:47:21,631 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:00:55,434 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:04:03,688 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:08:45,793 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:11:56,980 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:13:32,171 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:13:45,577 [main] INFO ebanking - Login test passed
+2020-11-08 21:18:45,690 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:19:00,834 [main] INFO ebanking - Login test passed
+2020-11-08 21:21:16,915 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:21:32,436 [main] INFO ebanking - Login test passed
+2020-11-08 21:24:58,495 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:25:12,125 [main] INFO ebanking - Login test passed
+2020-11-08 21:28:31,685 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 21:31:02,520 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 22:41:50,699 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 22:42:03,344 [main] INFO ebanking - Login test passed
+2020-11-08 22:51:02,529 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 22:53:09,832 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 22:53:18,715 [main] INFO ebanking - Login test passed
+2020-11-08 22:58:32,954 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 22:58:41,132 [main] INFO ebanking - Check for Google Click button
+2020-11-08 22:58:41,140 [main] INFO ebanking - Login test passed
+2020-11-08 23:04:14,469 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:04:24,179 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:04:24,198 [main] INFO ebanking - Login test passed
+2020-11-08 23:11:37,143 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:11:43,673 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:12:46,165 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:15:01,093 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:15:07,815 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:15:07,834 [main] INFO ebanking - Login test passed
+2020-11-08 23:16:31,024 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:16:44,569 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:16:49,596 [main] INFO ebanking - Login test passed
+2020-11-08 23:22:28,573 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:22:34,518 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:25:04,128 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:25:11,311 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:30:47,967 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:30:54,532 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:32:40,978 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:32:49,522 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:34:27,551 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:34:35,180 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:38:16,639 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:38:22,884 [main] INFO ebanking - Check for Google Click button
+2020-11-08 23:40:41,942 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-08 23:40:48,787 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:12:48,490 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:12:55,813 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:17:00,053 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:17:06,076 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:20:15,400 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:20:22,452 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:31:59,400 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:32:05,315 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:33:13,695 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:33:20,242 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:35:08,261 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:35:14,354 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:38:53,018 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:38:59,231 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:39:10,240 [main] INFO ebanking - Login test passed
+2020-11-09 09:40:10,124 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:40:16,543 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:40:30,813 [main] INFO ebanking - Login test passed
+2020-11-09 09:41:04,608 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:41:12,621 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:45:10,027 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:45:17,502 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:50:47,840 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 09:50:54,517 [main] INFO ebanking - Check for Google Click button
+2020-11-09 09:51:16,142 [main] INFO ebanking - Login test passed
+2020-11-09 10:32:35,926 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:37:39,152 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:39:57,273 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:40:08,357 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:42:38,186 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:42:46,827 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:44:12,467 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:44:23,771 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:48:30,861 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:49:16,575 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:49:28,958 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:50:28,276 [main] INFO ebanking - Login test passed
+2020-11-09 10:51:55,631 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:52:05,203 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:53:39,093 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 10:53:52,751 [main] INFO ebanking - Check for Google Click button
+2020-11-09 10:54:12,038 [main] INFO ebanking - Login test passed
+2020-11-09 11:22:30,396 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 11:22:39,645 [main] INFO ebanking - Check for Google Click button
+2020-11-09 11:22:48,708 [main] INFO ebanking - Login Successfully
+2020-11-09 11:22:58,834 [main] INFO ebanking - Login test passed
+2020-11-09 11:24:08,375 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 11:24:18,484 [main] INFO ebanking - Check for Google Click button
+2020-11-09 11:24:27,635 [main] INFO ebanking - Login Successfully
+2020-11-09 12:34:48,891 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 12:34:58,053 [main] INFO ebanking - Check for Google Click button
+2020-11-09 12:35:07,157 [main] INFO ebanking - Login Successfully
+2020-11-09 12:35:17,222 [main] INFO ebanking - Login test passed
+2020-11-09 12:35:21,255 [main] INFO ebanking - Logout Successfully
+2020-11-09 12:44:55,787 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 12:45:05,180 [main] INFO ebanking - Check for Google Click button
+2020-11-09 12:45:13,984 [main] INFO ebanking - Login Successfully
+2020-11-09 12:45:24,101 [main] INFO ebanking - Login test passed
+2020-11-09 12:47:01,639 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-09 12:47:13,521 [main] INFO ebanking - Check for Google Click button
+2020-11-09 12:47:22,230 [main] INFO ebanking - Login Successfully
+2020-11-09 12:47:32,331 [main] INFO ebanking - Login test passed
+2020-11-09 21:16:15,542 [main] INFO ebanking - Check for Google Click button
+2020-11-09 21:16:24,462 [main] INFO ebanking - Login Successfully
+2020-11-09 21:48:33,243 [main] INFO ebanking - Check for Google Click button
+2020-11-09 21:48:42,111 [main] INFO ebanking - Login Successfully
+2020-11-09 21:54:27,823 [main] INFO ebanking - Check for Google Click button
+2020-11-09 21:54:36,587 [main] INFO ebanking - Login Successfully
+2020-11-09 22:44:48,015 [main] INFO ebanking - Check for Google Click button
+2020-11-09 22:44:57,415 [main] INFO ebanking - Login Successfully
+2020-11-09 22:52:36,340 [main] INFO ebanking - Check for Google Click button
+2020-11-09 22:52:45,328 [main] INFO ebanking - Login Successfully
+2020-11-09 22:54:07,175 [main] INFO ebanking - Check for Google Click button
+2020-11-09 22:54:16,407 [main] INFO ebanking - Login Successfully
+2020-11-26 20:38:14,981 [main] INFO ebanking - URL is opened
+2020-11-26 20:38:15,284 [main] INFO ebanking - Entered username
+2020-11-26 20:38:15,286 [main] INFO ebanking - Entered password
+2020-11-26 20:41:55,136 [main] INFO ebanking - Check for Google Click button
+2020-11-26 20:42:05,229 [main] INFO ebanking - Login Successfully
+2020-11-26 22:39:04,659 [main] INFO ebanking - Welcome to Yatra Login Page
+2020-11-26 22:40:41,798 [main] INFO ebanking - Demo QA
+2020-11-26 22:42:26,531 [main] INFO ebanking - Demo QA
+2020-11-26 22:43:54,059 [main] INFO ebanking - Demo QA
+2020-11-26 22:48:11,431 [main] INFO ebanking - Demo QA
+2020-11-26 22:54:42,959 [main] INFO ebanking - Demo QA
+2020-11-26 22:59:16,699 [main] INFO ebanking - Demo QA
+2020-11-26 22:59:46,894 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:05:06,284 [main] INFO ebanking - Demo QA
+2020-11-26 23:05:36,480 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:05:39,646 [main] INFO ebanking - Clicked on Forms
+2020-11-26 23:05:42,862 [main] INFO ebanking - Clicked on Alerts
+2020-11-26 23:05:46,045 [main] INFO ebanking - Clicked on Widgets
+2020-11-26 23:05:49,238 [main] INFO ebanking - Clicked on Interactions
+2020-11-26 23:07:02,905 [main] INFO ebanking - Demo QA
+2020-11-26 23:07:03,146 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:07:06,347 [main] INFO ebanking - Clicked on Forms
+2020-11-26 23:07:09,556 [main] INFO ebanking - Clicked on Alerts
+2020-11-26 23:07:12,744 [main] INFO ebanking - Clicked on Widgets
+2020-11-26 23:07:15,922 [main] INFO ebanking - Clicked on Interactions
+2020-11-26 23:41:32,547 [main] INFO ebanking - Demo QA
+2020-11-26 23:41:32,796 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:47:35,670 [main] INFO ebanking - Demo QA
+2020-11-26 23:47:35,907 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:49:22,169 [main] INFO ebanking - Demo QA
+2020-11-26 23:49:22,315 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:49:22,420 [main] INFO ebanking - Clicked on Text Box
+2020-11-26 23:49:22,518 [main] INFO ebanking - Entered User Name
+2020-11-26 23:49:22,634 [main] INFO ebanking - Entered Email
+2020-11-26 23:49:22,817 [main] INFO ebanking - Entered Current Address
+2020-11-26 23:49:22,959 [main] INFO ebanking - Entered Permenant Address
+2020-11-26 23:51:02,665 [main] INFO ebanking - Demo QA
+2020-11-26 23:51:02,887 [main] INFO ebanking - Clicked on Elements
+2020-11-26 23:51:02,988 [main] INFO ebanking - Clicked on Text Box
+2020-11-26 23:51:03,122 [main] INFO ebanking - Entered User Name
+2020-11-26 23:51:03,250 [main] INFO ebanking - Entered Email
+2020-11-26 23:51:03,408 [main] INFO ebanking - Entered Current Address
+2020-11-26 23:51:03,585 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:03:01,388 [main] INFO ebanking - Demo QA
+2020-11-27 00:03:01,606 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:03:01,694 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:03:01,832 [main] INFO ebanking - Entered User Name
+2020-11-27 00:03:01,927 [main] INFO ebanking - Entered Email
+2020-11-27 00:03:02,102 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:03:02,292 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:03:02,402 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:17:28,077 [main] INFO ebanking - Demo QA
+2020-11-27 00:17:28,379 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:17:28,627 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:17:28,834 [main] INFO ebanking - Entered User Name
+2020-11-27 00:17:29,122 [main] INFO ebanking - Entered Email
+2020-11-27 00:17:29,493 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:17:29,835 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:17:30,012 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:19:00,643 [main] INFO ebanking - Demo QA
+2020-11-27 00:19:00,917 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:19:01,121 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:19:01,296 [main] INFO ebanking - Entered User Name
+2020-11-27 00:19:01,500 [main] INFO ebanking - Entered Email
+2020-11-27 00:19:01,766 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:19:01,986 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:19:02,140 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:20:36,289 [main] INFO ebanking - Demo QA
+2020-11-27 00:20:36,675 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:20:36,953 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:20:37,133 [main] INFO ebanking - Entered User Name
+2020-11-27 00:20:37,339 [main] INFO ebanking - Entered Email
+2020-11-27 00:20:37,590 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:20:37,882 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:20:38,031 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:26:14,846 [main] INFO ebanking - Demo QA
+2020-11-27 00:26:15,122 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:26:15,263 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:26:58,861 [main] INFO ebanking - Demo QA
+2020-11-27 00:26:59,205 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:26:59,385 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:26:59,600 [main] INFO ebanking - Entered User Name
+2020-11-27 00:26:59,904 [main] INFO ebanking - Entered Email
+2020-11-27 00:27:00,332 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:27:00,688 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:27:00,804 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:28:17,773 [main] INFO ebanking - Demo QA
+2020-11-27 00:28:18,070 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:28:18,289 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:28:18,507 [main] INFO ebanking - Entered User Name
+2020-11-27 00:28:18,727 [main] INFO ebanking - Entered Email
+2020-11-27 00:28:18,964 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:28:19,311 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:28:19,470 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:29:49,953 [main] INFO ebanking - Demo QA
+2020-11-27 00:29:50,188 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:29:50,393 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:29:50,556 [main] INFO ebanking - Entered User Name
+2020-11-27 00:29:50,742 [main] INFO ebanking - Entered Email
+2020-11-27 00:29:50,968 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:29:51,260 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:29:51,453 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 00:39:30,238 [main] INFO ebanking - Demo QA
+2020-11-27 00:39:30,645 [main] INFO ebanking - Clicked on Elements
+2020-11-27 00:39:30,920 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 00:39:31,059 [main] INFO ebanking - Entered User Name
+2020-11-27 00:39:31,301 [main] INFO ebanking - Entered Email
+2020-11-27 00:39:31,628 [main] INFO ebanking - Entered Current Address
+2020-11-27 00:39:32,003 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 00:39:32,176 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 10:31:08,218 [main] INFO ebanking - Demo QA
+2020-11-27 10:31:08,507 [main] INFO ebanking - Clicked on Elements
+2020-11-27 10:31:08,634 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 10:31:08,715 [main] INFO ebanking - Entered User Name
+2020-11-27 10:31:08,804 [main] INFO ebanking - Entered Email
+2020-11-27 10:31:08,917 [main] INFO ebanking - Entered Current Address
+2020-11-27 10:31:09,019 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 10:31:09,085 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 10:45:17,066 [main] INFO ebanking - Demo QA
+2020-11-27 10:45:17,206 [main] INFO ebanking - Clicked on Elements
+2020-11-27 10:45:17,288 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 10:45:17,359 [main] INFO ebanking - Entered User Name
+2020-11-27 10:45:17,448 [main] INFO ebanking - Entered Email
+2020-11-27 10:45:17,568 [main] INFO ebanking - Entered Current Address
+2020-11-27 10:45:17,683 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 10:45:17,745 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 11:16:22,736 [main] INFO ebanking - Demo QA
+2020-11-27 11:16:22,877 [main] INFO ebanking - Clicked on Elements
+2020-11-27 11:16:22,972 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 11:16:23,049 [main] INFO ebanking - Entered User Name
+2020-11-27 11:16:23,169 [main] INFO ebanking - Entered Email
+2020-11-27 11:16:23,271 [main] INFO ebanking - Entered Current Address
+2020-11-27 11:16:23,405 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 11:16:23,471 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 11:16:23,525 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-11-27 11:16:23,525 [main] INFO ebanking - Test Box Test Passed
+2020-11-27 13:28:28,107 [main] INFO ebanking - Demo QA
+2020-11-27 13:33:03,749 [main] INFO ebanking - Demo QA
+2020-11-27 13:46:48,105 [main] INFO ebanking - Demo QA
+2020-11-27 13:47:58,235 [main] INFO ebanking - Demo QA
+2020-11-27 13:49:18,674 [main] INFO ebanking - Demo QA
+2020-11-27 13:52:18,360 [main] INFO ebanking - Demo QA
+2020-11-27 13:52:18,635 [main] INFO ebanking - Clicked on Elements
+2020-11-27 13:52:18,939 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 13:52:19,075 [main] INFO ebanking - Entered User Name
+2020-11-27 13:52:19,219 [main] INFO ebanking - Entered Email
+2020-11-27 13:52:19,400 [main] INFO ebanking - Entered Current Address
+2020-11-27 13:52:19,571 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 13:52:19,694 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 13:52:19,778 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-11-27 13:52:19,778 [main] INFO ebanking - Test Passed
+2020-11-27 13:52:41,943 [main] INFO ebanking - Demo QA
+2020-11-27 13:54:28,708 [main] INFO ebanking - Demo QA
+2020-11-27 13:54:28,889 [main] INFO ebanking - Clicked on Elements
+2020-11-27 13:54:29,209 [main] INFO ebanking - Clicked on Text Box
+2020-11-27 13:54:29,384 [main] INFO ebanking - Entered User Name
+2020-11-27 13:54:29,519 [main] INFO ebanking - Entered Email
+2020-11-27 13:54:29,689 [main] INFO ebanking - Entered Current Address
+2020-11-27 13:54:29,825 [main] INFO ebanking - Entered Permenant Address
+2020-11-27 13:54:29,933 [main] INFO ebanking - Clicked on Submit Button
+2020-11-27 13:54:30,009 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-11-27 13:54:30,009 [main] INFO ebanking - Test Passed
+2020-11-27 13:54:52,113 [main] INFO ebanking - Demo QA
+2020-11-27 13:59:34,020 [main] INFO ebanking - Demo QA
+2020-11-27 14:00:04,377 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:00:04,457 [main] INFO ebanking - Clicked on Check Box
+2020-11-27 14:04:18,145 [main] INFO ebanking - Demo QA
+2020-11-27 14:04:48,340 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:04:48,421 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:11:55,779 [main] INFO ebanking - Demo QA
+2020-11-27 14:12:26,024 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:12:26,109 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:12:26,237 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:23:12,209 [main] INFO ebanking - Demo QA
+2020-11-27 14:23:12,321 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:23:12,401 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:23:12,493 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:24:09,373 [main] INFO ebanking - Demo QA
+2020-11-27 14:24:09,595 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:24:09,718 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:24:09,865 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:24:45,273 [main] INFO ebanking - Demo QA
+2020-11-27 14:24:45,390 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:24:45,462 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:24:45,551 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:26:04,458 [main] INFO ebanking - Demo QA
+2020-11-27 14:26:04,680 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:26:04,762 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:26:04,874 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:32:01,661 [main] INFO ebanking - Demo QA
+2020-11-27 14:32:01,827 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:32:01,900 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:32:02,008 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:33:08,112 [main] INFO ebanking - Demo QA
+2020-11-27 14:33:08,350 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:33:08,444 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:33:08,554 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:40:07,272 [main] INFO ebanking - Demo QA
+2020-11-27 14:40:07,477 [main] INFO ebanking - Clicked on Elements
+2020-11-27 14:40:07,596 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 14:40:07,713 [main] INFO ebanking - Clicked on + Button
+2020-11-27 14:40:57,946 [main] INFO ebanking - End of check boxes
+2020-11-27 19:12:24,587 [main] INFO ebanking - Demo QA
+2020-11-27 19:12:24,780 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:12:24,851 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:12:24,958 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:12:25,221 [main] INFO ebanking - Desktop Check Box is Not Selected
+2020-11-27 19:13:15,236 [main] INFO ebanking - End of check boxes
+2020-11-27 19:16:30,180 [main] INFO ebanking - Demo QA
+2020-11-27 19:16:30,345 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:16:30,430 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:16:30,523 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:19:01,139 [main] INFO ebanking - Demo QA
+2020-11-27 19:19:01,379 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:19:01,450 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:19:01,550 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:20:53,545 [main] INFO ebanking - Demo QA
+2020-11-27 19:20:53,763 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:20:53,839 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:20:53,983 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:21:44,221 [main] INFO ebanking - End of check boxes
+2020-11-27 19:23:31,822 [main] INFO ebanking - Demo QA
+2020-11-27 19:23:32,031 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:23:32,099 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:23:32,232 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:32:33,805 [main] INFO ebanking - Demo QA
+2020-11-27 19:32:34,014 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:32:34,094 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:32:34,224 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:34:34,810 [main] INFO ebanking - Demo QA
+2020-11-27 19:34:35,013 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:34:35,104 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:34:35,229 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:34:35,497 [main] INFO ebanking - Desktop Check Box is Not Selected
+2020-11-27 19:34:40,512 [main] INFO ebanking - End of check boxes
+2020-11-27 19:37:32,571 [main] INFO ebanking - Demo QA
+2020-11-27 19:37:32,780 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:37:32,882 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:37:33,005 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:38:48,278 [main] INFO ebanking - Demo QA
+2020-11-27 19:38:48,481 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:38:48,563 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:38:48,693 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:38:48,956 [main] INFO ebanking - Desktop Check Box is Not Selected
+2020-11-27 19:38:49,010 [main] INFO ebanking - Notes Check Box is Not Selected
+2020-11-27 19:38:49,065 [main] INFO ebanking - Commands Check Box is Not Selected
+2020-11-27 19:38:49,118 [main] INFO ebanking - Documents Check Box is Not Selected
+2020-11-27 19:38:49,183 [main] INFO ebanking - Workspace Check Box is Not Selected
+2020-11-27 19:38:54,188 [main] INFO ebanking - End of check boxes
+2020-11-27 19:50:07,866 [main] INFO ebanking - Demo QA
+2020-11-27 19:50:08,087 [main] INFO ebanking - Clicked on Elements
+2020-11-27 19:50:08,174 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 19:50:08,294 [main] INFO ebanking - Clicked on + Button
+2020-11-27 19:50:08,547 [main] INFO ebanking - Desktop Check Box is Not Selected
+2020-11-27 19:50:08,598 [main] INFO ebanking - Notes Check Box is Not Selected
+2020-11-27 19:50:08,674 [main] INFO ebanking - Commands Check Box is Not Selected
+2020-11-27 19:50:08,717 [main] INFO ebanking - Documents Check Box is Not Selected
+2020-11-27 19:50:08,772 [main] INFO ebanking - Workspace Check Box is Not Selected
+2020-11-27 19:50:13,789 [main] INFO ebanking - End of check boxes
+2020-11-27 20:17:55,593 [main] INFO ebanking - Demo QA
+2020-11-27 20:17:55,762 [main] INFO ebanking - Clicked on Elements
+2020-11-27 20:17:55,843 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 20:17:55,969 [main] INFO ebanking - Clicked on + Button
+2020-11-27 20:17:56,172 [main] INFO ebanking - Desktop Check Box is Not Selected
+2020-11-27 20:17:56,216 [main] INFO ebanking - Notes Check Box is Not Selected
+2020-11-27 20:17:56,274 [main] INFO ebanking - Commands Check Box is Not Selected
+2020-11-27 20:17:56,329 [main] INFO ebanking - Documents Check Box is Not Selected
+2020-11-27 20:17:56,385 [main] INFO ebanking - Workspace Check Box is Not Selected
+2020-11-27 20:18:01,397 [main] INFO ebanking - End of check boxes
+2020-11-27 20:34:27,490 [main] INFO ebanking - Demo QA
+2020-11-27 20:34:27,763 [main] INFO ebanking - Clicked on Elements
+2020-11-27 20:34:30,975 [main] INFO ebanking - Clicked on Forms
+2020-11-27 20:34:34,175 [main] INFO ebanking - Clicked on Alerts
+2020-11-27 20:34:37,369 [main] INFO ebanking - Clicked on Widgets
+2020-11-27 20:34:40,604 [main] INFO ebanking - Clicked on Interactions
+2020-11-27 22:14:31,418 [main] INFO ebanking - Demo QA
+2020-11-27 22:14:31,619 [main] INFO ebanking - Clicked on Forms
+2020-11-27 22:14:31,711 [main] INFO ebanking - Clicked on Forms Toggle
+2020-11-27 22:14:31,845 [main] INFO ebanking - Clicked on Practice Form
+2020-11-27 22:25:50,041 [main] INFO ebanking - Demo QA
+2020-11-27 22:25:50,214 [main] INFO ebanking - Clicked on Forms
+2020-11-27 22:25:50,279 [main] INFO ebanking - Clicked on Forms Toggle
+2020-11-27 22:25:50,487 [main] INFO ebanking - Clicked on Practice Form
+2020-11-27 22:30:01,697 [main] INFO ebanking - Demo QA
+2020-11-27 22:30:01,814 [main] INFO ebanking - Clicked on Forms
+2020-11-27 22:30:01,889 [main] INFO ebanking - Clicked on Forms Toggle
+2020-11-27 22:30:02,015 [main] INFO ebanking - Clicked on Practice Form
+2020-11-27 22:30:02,085 [main] INFO ebanking - Sports is Displayed
+2020-11-27 22:30:02,147 [main] INFO ebanking - Clicked on Sports Check Box
+2020-11-27 22:30:02,158 [main] INFO ebanking - Sports Is Not Selected
+2020-11-27 22:30:02,167 [main] INFO ebanking - Sports is Enabled
+2020-11-27 22:33:51,546 [main] INFO ebanking - Demo QA
+2020-11-27 22:33:51,723 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:33:51,789 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:33:51,899 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:33:52,134 [main] INFO ebanking - Desktop is Enabled
+2020-11-27 22:33:52,183 [main] INFO ebanking - Notes is Enabled
+2020-11-27 22:33:52,237 [main] INFO ebanking - Commands is Enabled
+2020-11-27 22:33:52,283 [main] INFO ebanking - Documents is Enabled
+2020-11-27 22:33:52,333 [main] INFO ebanking - Workspace is Enabled
+2020-11-27 22:33:57,343 [main] INFO ebanking - End of check boxes
+2020-11-27 22:43:48,682 [main] INFO ebanking - Demo QA
+2020-11-27 22:43:48,875 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:43:48,948 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:43:49,049 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:44:37,726 [main] INFO ebanking - Demo QA
+2020-11-27 22:44:37,942 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:44:38,019 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:44:38,181 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:46:10,386 [main] INFO ebanking - Demo QA
+2020-11-27 22:46:10,631 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:46:10,700 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:46:10,844 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:46:11,066 [main] INFO ebanking - Desktop is Enabled
+2020-11-27 22:46:11,121 [main] INFO ebanking - Notes is Enabled
+2020-11-27 22:46:11,193 [main] INFO ebanking - Commands is Enabled
+2020-11-27 22:46:11,252 [main] INFO ebanking - Documents is Enabled
+2020-11-27 22:46:11,283 [main] INFO ebanking - Workspace is Enabled
+2020-11-27 22:46:11,334 [main] INFO ebanking - React is Enabled
+2020-11-27 22:46:11,382 [main] INFO ebanking - Angular is Enabled
+2020-11-27 22:46:11,432 [main] INFO ebanking - Veu is Enabled
+2020-11-27 22:46:11,491 [main] INFO ebanking - Office is Enabled
+2020-11-27 22:46:11,548 [main] INFO ebanking - Public is Enabled
+2020-11-27 22:46:11,599 [main] INFO ebanking - Classified is Enabled
+2020-11-27 22:46:11,653 [main] INFO ebanking - General is Enabled
+2020-11-27 22:46:11,731 [main] INFO ebanking - Downloads is Enabled
+2020-11-27 22:46:11,784 [main] INFO ebanking - Word File is Enabled
+2020-11-27 22:46:11,857 [main] INFO ebanking - Excel File is Enabled
+2020-11-27 22:46:16,866 [main] INFO ebanking - End of check boxes
+2020-11-27 22:47:34,918 [main] INFO ebanking - Demo QA
+2020-11-27 22:47:35,101 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:47:35,208 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:47:35,310 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:51:40,903 [main] INFO ebanking - Demo QA
+2020-11-27 22:51:41,102 [main] INFO ebanking - Clicked on Elements
+2020-11-27 22:51:41,169 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-27 22:51:41,292 [main] INFO ebanking - Clicked on + Button
+2020-11-27 22:51:41,505 [main] INFO ebanking - Desktop is Enabled
+2020-11-27 22:51:41,556 [main] INFO ebanking - Notes is Enabled
+2020-11-27 22:51:41,608 [main] INFO ebanking - Commands is Enabled
+2020-11-27 22:51:41,662 [main] INFO ebanking - Documents is Enabled
+2020-11-27 22:51:41,718 [main] INFO ebanking - Workspace is Enabled
+2020-11-27 22:51:41,761 [main] INFO ebanking - React is Enabled
+2020-11-27 22:51:41,820 [main] INFO ebanking - Angular is Enabled
+2020-11-27 22:51:41,871 [main] INFO ebanking - Veu is Enabled
+2020-11-27 22:51:41,921 [main] INFO ebanking - Office is Enabled
+2020-11-27 22:51:42,006 [main] INFO ebanking - Public is Enabled
+2020-11-27 22:51:42,053 [main] INFO ebanking - Classified is Enabled
+2020-11-27 22:51:42,103 [main] INFO ebanking - General is Enabled
+2020-11-27 22:51:42,179 [main] INFO ebanking - Downloads is Enabled
+2020-11-27 22:51:42,249 [main] INFO ebanking - Word File is Enabled
+2020-11-27 22:51:42,302 [main] INFO ebanking - Excel File is Enabled
+2020-11-28 13:22:30,919 [main] INFO ebanking - user name is null
+2020-11-28 13:22:31,017 [main] INFO ebanking - password is null
+2020-11-28 13:22:31,018 [main] INFO ebanking - user name provided
+2020-11-28 13:22:31,019 [main] INFO ebanking - password provided
+2020-11-28 15:17:19,050 [main] INFO ebanking - uname uname uname mngr164225
+2020-11-28 15:17:19,133 [main] INFO ebanking - user name provided
+2020-11-28 15:17:19,135 [main] INFO ebanking - pwd pwd pwd jahetAp
+2020-11-28 15:17:19,136 [main] INFO ebanking - password provided
+2020-11-28 15:17:19,175 [main] INFO ebanking - uname uname uname mngr83460
+2020-11-28 15:17:19,176 [main] INFO ebanking - user name provided
+2020-11-28 15:17:19,176 [main] INFO ebanking - pwd pwd pwd qAbUzyj
+2020-11-28 15:17:19,177 [main] INFO ebanking - password provided
+2020-11-28 15:17:19,183 [main] INFO ebanking - uname uname uname mngr137319
+2020-11-28 15:17:19,183 [main] INFO ebanking - user name provided
+2020-11-28 15:17:19,183 [main] INFO ebanking - pwd pwd pwd bAdYvyb
+2020-11-28 15:17:19,184 [main] INFO ebanking - password provided
+2020-11-28 15:17:19,187 [main] INFO ebanking - uname uname uname mngr164225
+2020-11-28 15:17:19,188 [main] INFO ebanking - user name provided
+2020-11-28 15:17:19,188 [main] INFO ebanking - pwd pwd pwd jahetAp
+2020-11-28 15:17:19,188 [main] INFO ebanking - password provided
+2020-11-28 15:17:19,194 [main] INFO ebanking - uname uname uname mngr112909
+2020-11-28 15:17:19,195 [main] INFO ebanking - user name provided
+2020-11-28 15:17:19,195 [main] INFO ebanking - pwd pwd pwd tytUreg
+2020-11-28 15:17:19,195 [main] INFO ebanking - password provided
+2020-11-28 15:38:52,448 [main] INFO ebanking - uname uname uname mngr164225
+2020-11-28 15:38:52,474 [main] INFO ebanking - user name provided
+2020-11-28 15:38:52,475 [main] INFO ebanking - pwd pwd pwd jahetAp
+2020-11-28 15:38:52,476 [main] INFO ebanking - password provided
+2020-11-28 15:38:52,497 [main] INFO ebanking - uname uname uname mngr83460
+2020-11-28 15:38:52,498 [main] INFO ebanking - user name provided
+2020-11-28 15:38:52,498 [main] INFO ebanking - pwd pwd pwd qAbUzyj
+2020-11-28 15:38:52,498 [main] INFO ebanking - password provided
+2020-11-28 15:38:52,502 [main] INFO ebanking - uname uname uname mngr137319
+2020-11-28 15:38:52,502 [main] INFO ebanking - user name provided
+2020-11-28 15:38:52,503 [main] INFO ebanking - pwd pwd pwd bAdYvyb
+2020-11-28 15:38:52,503 [main] INFO ebanking - password provided
+2020-11-28 15:38:52,506 [main] INFO ebanking - uname uname uname mngr164225
+2020-11-28 15:38:52,507 [main] INFO ebanking - user name provided
+2020-11-28 15:38:52,507 [main] INFO ebanking - pwd pwd pwd jahetAp
+2020-11-28 15:38:52,507 [main] INFO ebanking - password provided
+2020-11-28 15:38:52,511 [main] INFO ebanking - uname uname uname mngr112909
+2020-11-28 15:38:52,512 [main] INFO ebanking - user name provided
+2020-11-28 15:38:52,512 [main] INFO ebanking - pwd pwd pwd tytUreg
+2020-11-28 15:38:52,512 [main] INFO ebanking - password provided
+2020-11-28 15:52:33,519 [main] INFO ebanking - Entered user name is mngr164225
+2020-11-28 15:52:33,608 [main] INFO ebanking - user name provided
+2020-11-28 15:52:33,676 [main] INFO ebanking - Entered Password is jahetAp
+2020-11-28 15:52:33,677 [main] INFO ebanking - password provided
+2020-11-28 15:52:37,014 [main] INFO ebanking - Entered user name is mngr137319
+2020-11-28 15:52:37,014 [main] INFO ebanking - user name provided
+2020-11-28 15:52:37,083 [main] INFO ebanking - Entered Password is bAdYvyb
+2020-11-28 15:52:37,083 [main] INFO ebanking - password provided
+2020-11-28 15:52:39,623 [main] INFO ebanking - Entered user name is mngr112909
+2020-11-28 15:52:39,624 [main] INFO ebanking - user name provided
+2020-11-28 15:52:39,739 [main] INFO ebanking - Entered Password is tytUreg
+2020-11-28 15:52:39,739 [main] INFO ebanking - password provided
+2020-11-28 15:59:35,528 [main] INFO ebanking - Demo QA
+2020-11-28 16:00:05,717 [main] INFO ebanking - Demo QA
+2020-11-28 16:03:24,653 [main] INFO ebanking - Demo QA
+2020-11-28 16:03:24,962 [main] INFO ebanking - Clicked on Elements
+2020-11-28 16:03:28,177 [main] INFO ebanking - Clicked on Forms
+2020-11-28 16:03:31,382 [main] INFO ebanking - Clicked on Alerts
+2020-11-28 16:03:34,582 [main] INFO ebanking - Clicked on Widgets
+2020-11-28 16:03:37,776 [main] INFO ebanking - Clicked on Interactions
+2020-11-28 16:06:08,645 [main] INFO ebanking - Demo QA
+2020-11-28 16:06:08,853 [main] INFO ebanking - Clicked on Elements
+2020-11-28 16:06:12,065 [main] INFO ebanking - Clicked on Forms
+2020-11-28 16:06:15,282 [main] INFO ebanking - Clicked on Alerts
+2020-11-28 16:06:18,472 [main] INFO ebanking - Clicked on Widgets
+2020-11-28 16:06:21,677 [main] INFO ebanking - Clicked on Interactions
+2020-11-28 16:06:55,822 [main] INFO ebanking - Demo QA
+2020-11-28 16:06:56,022 [main] INFO ebanking - Clicked on Elements
+2020-11-28 16:06:56,186 [main] INFO ebanking - Clicked on Text Box
+2020-11-28 16:06:56,333 [main] INFO ebanking - Entered User Name
+2020-11-28 16:06:56,447 [main] INFO ebanking - Entered Email
+2020-11-28 16:06:56,626 [main] INFO ebanking - Entered Current Address
+2020-11-28 16:06:56,789 [main] INFO ebanking - Entered Permenant Address
+2020-11-28 16:06:56,876 [main] INFO ebanking - Clicked on Submit Button
+2020-11-28 16:06:56,922 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-11-28 16:06:56,922 [main] INFO ebanking - Test Passed
+2020-11-28 16:07:49,234 [main] INFO ebanking - Demo QA
+2020-11-28 16:07:49,408 [main] INFO ebanking - Clicked on Elements
+2020-11-28 16:07:49,493 [main] INFO ebanking - Clicked on Check Box Menu
+2020-11-28 16:07:49,607 [main] INFO ebanking - Clicked on + Button
+2020-11-28 16:07:49,836 [main] INFO ebanking - Desktop is Enabled
+2020-11-28 16:07:49,886 [main] INFO ebanking - Notes is Enabled
+2020-11-28 16:07:49,936 [main] INFO ebanking - Commands is Enabled
+2020-11-28 16:07:49,985 [main] INFO ebanking - Documents is Enabled
+2020-11-28 16:07:50,029 [main] INFO ebanking - Workspace is Enabled
+2020-11-28 16:07:50,068 [main] INFO ebanking - React is Enabled
+2020-11-28 16:07:50,118 [main] INFO ebanking - Angular is Enabled
+2020-11-28 16:07:50,161 [main] INFO ebanking - Veu is Enabled
+2020-11-28 16:07:50,216 [main] INFO ebanking - Office is Enabled
+2020-11-28 16:07:50,264 [main] INFO ebanking - Public is Enabled
+2020-11-28 16:07:50,315 [main] INFO ebanking - Classified is Enabled
+2020-11-28 16:07:50,373 [main] INFO ebanking - General is Enabled
+2020-11-28 16:07:50,442 [main] INFO ebanking - Downloads is Enabled
+2020-11-28 16:07:50,479 [main] INFO ebanking - Word File is Enabled
+2020-11-28 16:07:50,519 [main] INFO ebanking - Excel File is Enabled
+2020-11-28 16:07:55,522 [main] INFO ebanking - End of check boxes
+2020-11-28 16:08:27,669 [main] INFO ebanking - Demo QA
+2020-11-28 16:08:27,865 [main] INFO ebanking - Clicked on Forms
+2020-11-28 16:08:27,967 [main] INFO ebanking - Clicked on Forms Toggle
+2020-11-28 16:08:28,133 [main] INFO ebanking - Clicked on Practice Form
+2020-11-28 16:08:28,251 [main] INFO ebanking - Sports is Displayed
+2020-11-28 16:08:28,342 [main] INFO ebanking - Clicked on Sports Check Box
+2020-11-28 16:08:28,356 [main] INFO ebanking - Sports Is Not Selected
+2020-11-28 16:08:28,366 [main] INFO ebanking - Sports is Enabled
+2020-12-03 19:58:28,909 [main] INFO ebanking - Demo QA
+2020-12-03 19:58:29,459 [main] INFO ebanking - Clicked on Elements
+2020-12-03 19:58:29,538 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 20:18:12,135 [main] INFO ebanking - Demo QA
+2020-12-03 20:18:12,369 [main] INFO ebanking - Clicked on Elements
+2020-12-03 20:18:12,470 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 20:18:12,658 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 20:18:12,994 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 20:18:13,504 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 20:18:13,577 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 20:18:13,625 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 20:18:13,642 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 20:54:38,032 [main] INFO ebanking - Demo QA
+2020-12-03 20:54:38,294 [main] INFO ebanking - Clicked on Elements
+2020-12-03 20:54:38,379 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 20:54:38,428 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 20:54:38,494 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 20:54:38,507 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 20:54:38,555 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 20:54:38,600 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 20:54:38,621 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 20:56:27,013 [main] INFO ebanking - Demo QA
+2020-12-03 20:56:27,262 [main] INFO ebanking - Clicked on Elements
+2020-12-03 20:56:27,331 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 20:56:27,381 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 20:56:27,449 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 20:56:27,460 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 20:56:27,510 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 20:56:27,562 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 20:56:27,580 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 21:00:22,803 [main] INFO ebanking - Demo QA
+2020-12-03 21:00:22,989 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:00:23,060 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 21:00:23,111 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 21:00:23,188 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 21:00:23,207 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 21:00:23,207 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:00:23,257 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 21:00:23,306 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 21:00:23,326 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 21:00:23,327 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:00:23,373 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-03 21:00:23,416 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-03 21:00:23,437 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-03 21:00:23,437 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:02:12,693 [main] INFO ebanking - Demo QA
+2020-12-03 21:02:12,870 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:02:12,982 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 21:02:13,017 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 21:02:13,097 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 21:02:13,117 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 21:02:13,117 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:02:13,164 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 21:02:13,210 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 21:02:13,228 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 21:02:13,228 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:02:13,267 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-03 21:02:13,311 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-03 21:02:13,330 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-03 21:02:13,330 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:03:08,318 [main] INFO ebanking - Demo QA
+2020-12-03 21:03:08,518 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:03:08,584 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 21:03:08,640 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 21:03:08,717 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 21:03:08,733 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 21:03:08,734 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:03:08,786 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 21:03:08,834 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 21:03:08,850 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 21:03:08,850 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:03:08,886 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-03 21:03:08,928 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-03 21:03:08,951 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-03 21:03:08,951 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:06:40,207 [main] INFO ebanking - Demo QA
+2020-12-03 21:06:40,486 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:06:40,556 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-03 21:06:40,600 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-03 21:06:40,679 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-03 21:06:40,702 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-03 21:06:40,702 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:06:40,743 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-03 21:06:40,796 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-03 21:06:40,816 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-03 21:06:40,816 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:06:40,853 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-03 21:06:40,882 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-03 21:06:40,897 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-03 21:06:40,897 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-03 21:48:50,526 [main] INFO ebanking - Demo QA
+2020-12-03 21:48:50,751 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:48:50,846 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-03 21:53:07,541 [main] INFO ebanking - Demo QA
+2020-12-03 21:53:07,725 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:53:07,791 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-03 21:53:07,986 [main] INFO ebanking - Double clicked the button
+2020-12-03 21:53:08,163 [main] INFO ebanking - Right clicked the button
+2020-12-03 21:54:47,706 [main] INFO ebanking - Demo QA
+2020-12-03 21:54:47,913 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:54:47,985 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-03 21:54:48,180 [main] INFO ebanking - Double clicked the button
+2020-12-03 21:54:48,375 [main] INFO ebanking - Right clicked the button
+2020-12-03 21:56:12,402 [main] INFO ebanking - Demo QA
+2020-12-03 21:56:12,593 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:56:12,700 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-03 21:56:12,916 [main] INFO ebanking - Double clicked the button
+2020-12-03 21:56:13,095 [main] INFO ebanking - Right clicked the button
+2020-12-03 21:58:29,227 [main] INFO ebanking - Demo QA
+2020-12-03 21:58:29,413 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:58:29,507 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-03 21:58:29,703 [main] INFO ebanking - Double clicked the button
+2020-12-03 21:58:29,875 [main] INFO ebanking - Right clicked the button
+2020-12-03 21:59:39,764 [main] INFO ebanking - Demo QA
+2020-12-03 21:59:39,958 [main] INFO ebanking - Clicked on Elements
+2020-12-03 21:59:40,026 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-04 12:15:07,371 [main] INFO ebanking - Demo QA
+2020-12-04 12:15:07,631 [main] INFO ebanking - Clicked on Elements
+2020-12-04 12:15:07,698 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-04 12:15:07,756 [main] INFO ebanking - Clicked the button
+2020-12-04 12:16:14,989 [main] INFO ebanking - Demo QA
+2020-12-04 12:16:15,120 [main] INFO ebanking - Clicked on Elements
+2020-12-04 12:16:15,186 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-04 12:16:15,366 [main] INFO ebanking - Double clicked the button
+2020-12-04 12:16:15,547 [main] INFO ebanking - Right clicked the button
+2020-12-04 12:16:15,621 [main] INFO ebanking - Clicked the button
+2020-12-04 12:50:07,653 [main] INFO ebanking - Demo QA
+2020-12-04 12:50:07,773 [main] INFO ebanking - Clicked on Elements
+2020-12-04 12:57:24,371 [main] INFO ebanking - Demo QA
+2020-12-04 12:57:24,535 [main] INFO ebanking - Clicked on Elements
+2020-12-04 12:57:24,610 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 12:57:24,682 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 12:57:26,878 [main] INFO ebanking - Closed New Tab
+2020-12-04 17:14:33,220 [main] INFO ebanking - Demo QA
+2020-12-04 17:14:33,721 [main] INFO ebanking - Clicked on Elements
+2020-12-04 17:14:33,841 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 17:14:33,938 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 17:16:20,739 [main] INFO ebanking - Demo QA
+2020-12-04 17:16:20,946 [main] INFO ebanking - Clicked on Elements
+2020-12-04 17:16:21,012 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 17:16:21,160 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 17:16:23,307 [main] INFO ebanking - Closed New Tab
+2020-12-04 17:21:53,524 [main] INFO ebanking - Demo QA
+2020-12-04 17:21:53,746 [main] INFO ebanking - Clicked on Elements
+2020-12-04 17:21:53,812 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 17:21:53,975 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 17:21:56,104 [main] INFO ebanking - Closed New Tab
+2020-12-04 17:24:13,234 [main] INFO ebanking - Demo QA
+2020-12-04 17:24:13,464 [main] INFO ebanking - Clicked on Elements
+2020-12-04 17:24:13,541 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 17:24:13,689 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 17:24:15,838 [main] INFO ebanking - Closed New Tab
+2020-12-04 18:38:55,873 [main] INFO ebanking - No of links are 4
+2020-12-04 18:38:58,759 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:38:58,760 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:38:58,771 [main] INFO ebanking - 
+2020-12-04 18:38:58,782 [main] INFO ebanking - Home
+2020-12-04 18:38:58,793 [main] INFO ebanking - HomeRf3tR
+2020-12-04 18:38:58,802 [main] INFO ebanking - Created
+2020-12-04 18:38:58,802 [main] INFO ebanking - No Content
+2020-12-04 18:38:58,818 [main] INFO ebanking - Moved
+2020-12-04 18:38:58,834 [main] INFO ebanking - Bad Request
+2020-12-04 18:38:58,834 [main] INFO ebanking - Unauthorized
+2020-12-04 18:38:58,849 [main] INFO ebanking - Forbidden
+2020-12-04 18:38:58,865 [main] INFO ebanking - Not Found
+2020-12-04 18:38:58,880 [main] INFO ebanking - 
+2020-12-04 18:40:02,843 [main] INFO ebanking - No of links are 4
+2020-12-04 18:40:05,574 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:40:05,574 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:40:05,587 [main] INFO ebanking - 
+2020-12-04 18:40:05,598 [main] INFO ebanking - Home
+2020-12-04 18:40:05,605 [main] INFO ebanking - HomeEsV5h
+2020-12-04 18:40:05,605 [main] INFO ebanking - Created
+2020-12-04 18:40:05,621 [main] INFO ebanking - No Content
+2020-12-04 18:40:05,636 [main] INFO ebanking - Moved
+2020-12-04 18:40:05,652 [main] INFO ebanking - Bad Request
+2020-12-04 18:40:05,652 [main] INFO ebanking - Unauthorized
+2020-12-04 18:40:05,668 [main] INFO ebanking - Forbidden
+2020-12-04 18:40:05,683 [main] INFO ebanking - Not Found
+2020-12-04 18:40:05,688 [main] INFO ebanking - 
+2020-12-04 18:46:18,322 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:46:18,324 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:46:18,337 [main] INFO ebanking - 
+2020-12-04 18:46:18,345 [main] INFO ebanking - Home
+2020-12-04 18:46:18,345 [main] INFO ebanking - HomeK7Zxx
+2020-12-04 18:46:18,360 [main] INFO ebanking - Created
+2020-12-04 18:46:18,376 [main] INFO ebanking - No Content
+2020-12-04 18:46:18,392 [main] INFO ebanking - Moved
+2020-12-04 18:46:18,392 [main] INFO ebanking - Bad Request
+2020-12-04 18:46:18,407 [main] INFO ebanking - Unauthorized
+2020-12-04 18:46:18,423 [main] INFO ebanking - Forbidden
+2020-12-04 18:46:18,431 [main] INFO ebanking - Not Found
+2020-12-04 18:46:18,446 [main] INFO ebanking - 
+2020-12-04 18:46:18,462 [main] INFO ebanking - No of links are 11
+2020-12-04 18:50:08,697 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:50:08,700 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:50:08,708 [main] INFO ebanking - 
+2020-12-04 18:50:08,724 [main] INFO ebanking - Home
+2020-12-04 18:50:08,724 [main] INFO ebanking - Home4FghU
+2020-12-04 18:50:08,739 [main] INFO ebanking - Created
+2020-12-04 18:50:08,755 [main] INFO ebanking - No Content
+2020-12-04 18:50:08,755 [main] INFO ebanking - Moved
+2020-12-04 18:50:08,770 [main] INFO ebanking - Bad Request
+2020-12-04 18:50:08,786 [main] INFO ebanking - Unauthorized
+2020-12-04 18:50:08,786 [main] INFO ebanking - Forbidden
+2020-12-04 18:50:08,801 [main] INFO ebanking - Not Found
+2020-12-04 18:50:08,817 [main] INFO ebanking - 
+2020-12-04 18:50:08,839 [main] INFO ebanking - No of links are 11
+2020-12-04 18:50:09,736 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:50:10,322 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:50:10,844 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:50:11,239 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 18:52:58,450 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:52:58,457 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:52:58,468 [main] INFO ebanking - 
+2020-12-04 18:52:58,468 [main] INFO ebanking - Home
+2020-12-04 18:52:58,484 [main] INFO ebanking - HomedeP9Y
+2020-12-04 18:52:58,491 [main] INFO ebanking - Created
+2020-12-04 18:52:58,507 [main] INFO ebanking - No Content
+2020-12-04 18:52:58,522 [main] INFO ebanking - Moved
+2020-12-04 18:52:58,522 [main] INFO ebanking - Bad Request
+2020-12-04 18:52:58,538 [main] INFO ebanking - Unauthorized
+2020-12-04 18:52:58,554 [main] INFO ebanking - Forbidden
+2020-12-04 18:52:58,554 [main] INFO ebanking - Not Found
+2020-12-04 18:52:58,569 [main] INFO ebanking - 
+2020-12-04 18:52:59,218 [main] INFO ebanking - No of links are 4
+2020-12-04 18:53:00,690 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:53:01,044 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-04 18:53:01,662 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-04 18:53:01,916 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 18:55:13,912 [main] INFO ebanking - We are in Links page 
+2020-12-04 18:55:13,941 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:55:13,941 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:55:13,953 [main] INFO ebanking - 
+2020-12-04 18:55:13,959 [main] INFO ebanking - Home
+2020-12-04 18:55:13,974 [main] INFO ebanking - HomeoCtbO
+2020-12-04 18:55:13,974 [main] INFO ebanking - Created
+2020-12-04 18:55:13,990 [main] INFO ebanking - No Content
+2020-12-04 18:55:14,004 [main] INFO ebanking - Moved
+2020-12-04 18:55:14,020 [main] INFO ebanking - Bad Request
+2020-12-04 18:55:14,020 [main] INFO ebanking - Unauthorized
+2020-12-04 18:55:14,035 [main] INFO ebanking - Forbidden
+2020-12-04 18:55:14,051 [main] INFO ebanking - Not Found
+2020-12-04 18:55:14,051 [main] INFO ebanking - 
+2020-12-04 18:55:14,918 [main] INFO ebanking - We are in Broken page 
+2020-12-04 18:55:14,949 [main] INFO ebanking - No of links are 4
+2020-12-04 18:55:16,008 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:55:16,393 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-04 18:55:17,027 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-04 18:55:17,243 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 18:58:01,907 [main] INFO ebanking - We are in Broken page 
+2020-12-04 18:58:01,952 [main] INFO ebanking - No of links are 4
+2020-12-04 18:58:02,834 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 18:58:03,188 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-04 18:58:07,709 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-04 18:58:07,960 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 18:58:08,645 [main] INFO ebanking - We are in Links page 
+2020-12-04 18:58:08,667 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 18:58:08,667 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 18:58:08,678 [main] INFO ebanking - 
+2020-12-04 18:58:08,690 [main] INFO ebanking - Home
+2020-12-04 18:58:08,700 [main] INFO ebanking - Home4mGl3
+2020-12-04 18:58:08,703 [main] INFO ebanking - Created
+2020-12-04 18:58:08,719 [main] INFO ebanking - No Content
+2020-12-04 18:58:08,725 [main] INFO ebanking - Moved
+2020-12-04 18:58:08,741 [main] INFO ebanking - Bad Request
+2020-12-04 18:58:08,741 [main] INFO ebanking - Unauthorized
+2020-12-04 18:58:08,761 [main] INFO ebanking - Forbidden
+2020-12-04 18:58:08,776 [main] INFO ebanking - Not Found
+2020-12-04 18:58:08,776 [main] INFO ebanking - 
+2020-12-04 19:18:25,499 [main] INFO ebanking - We are in Links page 
+2020-12-04 19:18:25,660 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 19:18:25,660 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 19:18:25,697 [main] INFO ebanking - 
+2020-12-04 19:18:25,709 [main] INFO ebanking - Home
+2020-12-04 19:18:25,721 [main] INFO ebanking - HomeHQhH4
+2020-12-04 19:18:25,732 [main] INFO ebanking - Created
+2020-12-04 19:18:25,742 [main] INFO ebanking - No Content
+2020-12-04 19:18:25,754 [main] INFO ebanking - Moved
+2020-12-04 19:18:25,766 [main] INFO ebanking - Bad Request
+2020-12-04 19:18:25,777 [main] INFO ebanking - Unauthorized
+2020-12-04 19:18:25,789 [main] INFO ebanking - Forbidden
+2020-12-04 19:18:25,799 [main] INFO ebanking - Not Found
+2020-12-04 19:18:25,811 [main] INFO ebanking - 
+2020-12-04 19:18:26,401 [main] INFO ebanking - We are in Broken page 
+2020-12-04 19:18:26,420 [main] INFO ebanking - No of links are 4
+2020-12-04 19:18:27,540 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 19:18:27,867 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-04 19:18:28,514 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-04 19:18:28,745 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 19:18:28,771 [main] INFO ebanking - Total number of Images on the Page are 4
+2020-12-04 19:18:28,783 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-04 19:18:29,274 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-04 19:18:29,294 [main] INFO ebanking - DISPLAY - OK
+2020-12-04 19:18:29,310 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-04 19:18:29,810 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-04 19:18:29,822 [main] INFO ebanking - DISPLAY - OK
+2020-12-04 19:18:29,839 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2020-12-04 19:18:30,352 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2020-12-04 19:18:30,377 [main] INFO ebanking - DISPLAY - BROKEN
+2020-12-04 19:18:30,401 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2020-12-04 19:18:32,420 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2020-12-04 19:18:32,437 [main] INFO ebanking - DISPLAY - OK
+2020-12-04 19:20:57,006 [main] INFO ebanking - Demo QA
+2020-12-04 19:20:57,248 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:21:00,384 [main] INFO ebanking - Clicked on Forms
+2020-12-04 19:21:03,538 [main] INFO ebanking - Clicked on Alerts
+2020-12-04 19:21:06,660 [main] INFO ebanking - Clicked on Widgets
+2020-12-04 19:21:09,765 [main] INFO ebanking - Clicked on Interactions
+2020-12-04 19:21:30,659 [main] INFO ebanking - Demo QA
+2020-12-04 19:21:30,793 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:21:31,037 [main] INFO ebanking - Clicked on Text Box
+2020-12-04 19:21:31,175 [main] INFO ebanking - Entered User Name
+2020-12-04 19:21:31,267 [main] INFO ebanking - Entered Email
+2020-12-04 19:21:31,382 [main] INFO ebanking - Entered Current Address
+2020-12-04 19:21:31,498 [main] INFO ebanking - Entered Permenant Address
+2020-12-04 19:21:31,551 [main] INFO ebanking - Clicked on Submit Button
+2020-12-04 19:21:31,599 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-12-04 19:21:31,599 [main] INFO ebanking - Test Passed
+2020-12-04 19:21:50,361 [main] INFO ebanking - Demo QA
+2020-12-04 19:21:50,468 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:21:50,553 [main] INFO ebanking - Clicked on Check Box Menu
+2020-12-04 19:21:50,626 [main] INFO ebanking - Clicked on + Button
+2020-12-04 19:21:50,760 [main] INFO ebanking - Desktop is Enabled
+2020-12-04 19:21:50,812 [main] INFO ebanking - Notes is Enabled
+2020-12-04 19:21:50,860 [main] INFO ebanking - Commands is Enabled
+2020-12-04 19:21:50,892 [main] INFO ebanking - Documents is Enabled
+2020-12-04 19:21:50,918 [main] INFO ebanking - Workspace is Enabled
+2020-12-04 19:21:50,948 [main] INFO ebanking - React is Enabled
+2020-12-04 19:21:50,979 [main] INFO ebanking - Angular is Enabled
+2020-12-04 19:21:51,010 [main] INFO ebanking - Veu is Enabled
+2020-12-04 19:21:51,041 [main] INFO ebanking - Office is Enabled
+2020-12-04 19:21:51,073 [main] INFO ebanking - Public is Enabled
+2020-12-04 19:21:51,103 [main] INFO ebanking - Classified is Enabled
+2020-12-04 19:21:51,134 [main] INFO ebanking - General is Enabled
+2020-12-04 19:21:51,164 [main] INFO ebanking - Downloads is Enabled
+2020-12-04 19:21:51,210 [main] INFO ebanking - Word File is Enabled
+2020-12-04 19:21:51,243 [main] INFO ebanking - Excel File is Enabled
+2020-12-04 19:21:56,257 [main] INFO ebanking - End of check boxes
+2020-12-04 19:22:11,928 [main] INFO ebanking - Demo QA
+2020-12-04 19:22:12,060 [main] INFO ebanking - Clicked on Forms
+2020-12-04 19:22:12,118 [main] INFO ebanking - Clicked on Forms Toggle
+2020-12-04 19:22:12,408 [main] INFO ebanking - Clicked on Practice Form
+2020-12-04 19:22:12,484 [main] INFO ebanking - Sports is Displayed
+2020-12-04 19:22:12,523 [main] INFO ebanking - Clicked on Sports Check Box
+2020-12-04 19:22:12,569 [main] INFO ebanking - Sports Is Not Selected
+2020-12-04 19:22:12,577 [main] INFO ebanking - Sports is Enabled
+2020-12-04 19:22:33,958 [main] INFO ebanking - Demo QA
+2020-12-04 19:22:34,084 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:22:34,152 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-04 19:22:34,174 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-04 19:22:34,201 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-04 19:22:34,210 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-04 19:22:34,211 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-04 19:22:34,238 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-04 19:22:34,261 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-04 19:22:34,272 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-04 19:22:34,272 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-04 19:22:34,300 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-04 19:22:34,322 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-04 19:22:34,331 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-04 19:22:34,331 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-04 19:22:58,241 [main] INFO ebanking - Demo QA
+2020-12-04 19:22:58,350 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:22:58,419 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-04 19:22:58,670 [main] INFO ebanking - Double clicked the button
+2020-12-04 19:22:58,806 [main] INFO ebanking - Right clicked the button
+2020-12-04 19:22:58,885 [main] INFO ebanking - Clicked the button
+2020-12-04 19:23:35,144 [main] INFO ebanking - Demo QA
+2020-12-04 19:23:35,269 [main] INFO ebanking - Clicked on Elements
+2020-12-04 19:23:35,334 [main] INFO ebanking - Clicked on Links Menu
+2020-12-04 19:23:35,415 [main] INFO ebanking - Clicked on Home Link
+2020-12-04 19:23:37,547 [main] INFO ebanking - Closed New Tab
+2020-12-04 19:24:05,991 [main] INFO ebanking - We are in Links page 
+2020-12-04 19:24:06,026 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-04 19:24:06,027 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-04 19:24:06,040 [main] INFO ebanking - 
+2020-12-04 19:24:06,052 [main] INFO ebanking - Home
+2020-12-04 19:24:06,064 [main] INFO ebanking - HomedG7G5
+2020-12-04 19:24:06,076 [main] INFO ebanking - Created
+2020-12-04 19:24:06,089 [main] INFO ebanking - No Content
+2020-12-04 19:24:06,100 [main] INFO ebanking - Moved
+2020-12-04 19:24:06,111 [main] INFO ebanking - Bad Request
+2020-12-04 19:24:06,124 [main] INFO ebanking - Unauthorized
+2020-12-04 19:24:06,134 [main] INFO ebanking - Forbidden
+2020-12-04 19:24:06,145 [main] INFO ebanking - Not Found
+2020-12-04 19:24:06,157 [main] INFO ebanking - 
+2020-12-04 19:24:06,769 [main] INFO ebanking - We are in Broken page 
+2020-12-04 19:24:06,792 [main] INFO ebanking - No of links are 4
+2020-12-04 19:24:07,610 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-04 19:24:07,983 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-04 19:24:08,636 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-04 19:24:08,861 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-04 19:24:08,886 [main] INFO ebanking - Total number of Images on the Page are 4
+2020-12-04 19:24:08,911 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-04 19:24:09,413 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-04 19:24:09,420 [main] INFO ebanking - DISPLAY - OK
+2020-12-04 19:24:09,436 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-04 19:24:09,944 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-04 19:24:09,966 [main] INFO ebanking - DISPLAY - OK
+2020-12-04 19:24:09,982 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2020-12-04 19:24:10,480 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2020-12-04 19:24:10,494 [main] INFO ebanking - DISPLAY - BROKEN
+2020-12-04 19:24:10,510 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2020-12-04 19:24:11,174 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2020-12-04 19:24:11,201 [main] INFO ebanking - DISPLAY - OK
+2020-12-19 18:38:14,704 [main] INFO ebanking - Demo QA
+2020-12-19 18:38:15,109 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:38:18,221 [main] INFO ebanking - Clicked on Forms
+2020-12-19 18:38:21,358 [main] INFO ebanking - Clicked on Alerts
+2020-12-19 18:38:24,479 [main] INFO ebanking - Clicked on Widgets
+2020-12-19 18:38:27,594 [main] INFO ebanking - Clicked on Interactions
+2020-12-19 18:38:39,922 [main] INFO ebanking - Demo QA
+2020-12-19 18:38:40,076 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:38:40,161 [main] INFO ebanking - Clicked on Text Box
+2020-12-19 18:38:40,276 [main] INFO ebanking - Entered User Name
+2020-12-19 18:38:40,393 [main] INFO ebanking - Entered Email
+2020-12-19 18:38:40,513 [main] INFO ebanking - Entered Current Address
+2020-12-19 18:38:40,664 [main] INFO ebanking - Entered Permenant Address
+2020-12-19 18:38:40,714 [main] INFO ebanking - Clicked on Submit Button
+2020-12-19 18:38:40,766 [main] INFO ebanking - Test Box value is Name:Manoj
+2020-12-19 18:38:40,767 [main] INFO ebanking - Test Passed
+2020-12-19 18:38:59,638 [main] INFO ebanking - Demo QA
+2020-12-19 18:38:59,802 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:38:59,880 [main] INFO ebanking - Clicked on Check Box Menu
+2020-12-19 18:38:59,946 [main] INFO ebanking - Clicked on + Button
+2020-12-19 18:39:00,095 [main] INFO ebanking - Desktop is Enabled
+2020-12-19 18:39:00,119 [main] INFO ebanking - Notes is Enabled
+2020-12-19 18:39:00,125 [main] INFO ebanking - Commands is Enabled
+2020-12-19 18:39:00,188 [main] INFO ebanking - Documents is Enabled
+2020-12-19 18:39:00,219 [main] INFO ebanking - Workspace is Enabled
+2020-12-19 18:39:00,254 [main] INFO ebanking - React is Enabled
+2020-12-19 18:39:00,290 [main] INFO ebanking - Angular is Enabled
+2020-12-19 18:39:00,337 [main] INFO ebanking - Veu is Enabled
+2020-12-19 18:39:00,369 [main] INFO ebanking - Office is Enabled
+2020-12-19 18:39:00,416 [main] INFO ebanking - Public is Enabled
+2020-12-19 18:39:00,447 [main] INFO ebanking - Classified is Enabled
+2020-12-19 18:39:00,479 [main] INFO ebanking - General is Enabled
+2020-12-19 18:39:00,510 [main] INFO ebanking - Downloads is Enabled
+2020-12-19 18:39:00,538 [main] INFO ebanking - Word File is Enabled
+2020-12-19 18:39:00,569 [main] INFO ebanking - Excel File is Enabled
+2020-12-19 18:39:05,572 [main] INFO ebanking - End of check boxes
+2020-12-19 18:39:14,774 [main] INFO ebanking - Demo QA
+2020-12-19 18:39:15,000 [main] INFO ebanking - Clicked on Forms
+2020-12-19 18:39:15,054 [main] INFO ebanking - Clicked on Forms Toggle
+2020-12-19 18:39:15,159 [main] INFO ebanking - Clicked on Practice Form
+2020-12-19 18:39:15,237 [main] INFO ebanking - Sports is Displayed
+2020-12-19 18:39:15,291 [main] INFO ebanking - Clicked on Sports Check Box
+2020-12-19 18:39:15,305 [main] INFO ebanking - Sports Is Not Selected
+2020-12-19 18:39:15,315 [main] INFO ebanking - Sports is Enabled
+2020-12-19 18:39:31,192 [main] INFO ebanking - Demo QA
+2020-12-19 18:39:31,368 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:39:31,430 [main] INFO ebanking - Clicked on Radio Box Menu
+2020-12-19 18:39:31,453 [main] INFO ebanking - Yes Radio Button  is Enabled
+2020-12-19 18:39:31,476 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2020-12-19 18:39:31,486 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2020-12-19 18:39:31,486 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-19 18:39:31,515 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2020-12-19 18:39:31,541 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2020-12-19 18:39:31,550 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2020-12-19 18:39:31,550 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-19 18:39:31,580 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2020-12-19 18:39:31,600 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2020-12-19 18:39:31,608 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2020-12-19 18:39:31,608 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2020-12-19 18:39:48,610 [main] INFO ebanking - Demo QA
+2020-12-19 18:39:48,772 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:39:48,843 [main] INFO ebanking - Clicked on Buttons Menu
+2020-12-19 18:39:49,020 [main] INFO ebanking - Double clicked the button
+2020-12-19 18:39:49,202 [main] INFO ebanking - Right clicked the button
+2020-12-19 18:39:49,278 [main] INFO ebanking - Clicked the button
+2020-12-19 18:40:04,426 [main] INFO ebanking - Demo QA
+2020-12-19 18:40:04,589 [main] INFO ebanking - Clicked on Elements
+2020-12-19 18:40:04,653 [main] INFO ebanking - Clicked on Links Menu
+2020-12-19 18:40:04,726 [main] INFO ebanking - Clicked on Home Link
+2020-12-19 18:40:06,867 [main] INFO ebanking - Closed New Tab
+2020-12-19 18:40:24,043 [main] INFO ebanking - We are in Links page 
+2020-12-19 18:40:24,055 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2020-12-19 18:40:24,055 [main] INFO ebanking - Total links on the Web Pages are : 
+2020-12-19 18:40:24,067 [main] INFO ebanking - 
+2020-12-19 18:40:24,077 [main] INFO ebanking - Home
+2020-12-19 18:40:24,087 [main] INFO ebanking - HomefYeJw
+2020-12-19 18:40:24,098 [main] INFO ebanking - Created
+2020-12-19 18:40:24,098 [main] INFO ebanking - No Content
+2020-12-19 18:40:24,113 [main] INFO ebanking - Moved
+2020-12-19 18:40:24,129 [main] INFO ebanking - Bad Request
+2020-12-19 18:40:24,129 [main] INFO ebanking - Unauthorized
+2020-12-19 18:40:24,145 [main] INFO ebanking - Forbidden
+2020-12-19 18:40:24,145 [main] INFO ebanking - Not Found
+2020-12-19 18:40:24,160 [main] INFO ebanking - 
+2020-12-19 18:40:25,048 [main] INFO ebanking - We are in Broken page 
+2020-12-19 18:40:25,065 [main] INFO ebanking - No of links are 4
+2020-12-19 18:40:25,846 [main] INFO ebanking - https://demoqa.com/ - OK
+2020-12-19 18:40:26,190 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2020-12-19 18:40:26,831 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2020-12-19 18:40:28,569 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2020-12-19 18:40:28,598 [main] INFO ebanking - Total number of Images on the Page are 4
+2020-12-19 18:40:28,614 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-19 18:40:29,099 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-19 18:40:29,117 [main] INFO ebanking - DISPLAY - OK
+2020-12-19 18:40:29,135 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2020-12-19 18:40:29,728 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2020-12-19 18:40:29,756 [main] INFO ebanking - DISPLAY - OK
+2020-12-19 18:40:29,781 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2020-12-19 18:40:30,436 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2020-12-19 18:40:30,475 [main] INFO ebanking - DISPLAY - BROKEN
+2020-12-19 18:40:30,506 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2020-12-19 18:40:32,087 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2020-12-19 18:40:32,113 [main] INFO ebanking - DISPLAY - OK
+2020-12-29 12:06:54,379 [main] INFO ebanking - Demo QA
+2020-12-29 12:06:54,821 [main] INFO ebanking - Clicked on Elements
+2020-12-29 12:06:54,898 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2020-12-29 12:06:55,016 [main] INFO ebanking - Uploaded jpeg file Successfully
+2020-12-29 12:13:05,747 [main] INFO ebanking - Demo QA
+2020-12-29 12:13:05,993 [main] INFO ebanking - Clicked on Elements
+2020-12-29 12:13:06,110 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2020-12-29 12:13:06,242 [main] INFO ebanking - Downloaded jpeg file Successfully
+2020-12-29 12:13:06,347 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-12 13:12:38,138 [main] INFO ebanking - Demo QA
+2021-01-12 13:12:38,378 [main] INFO ebanking - Clicked on Elements
+2021-01-12 13:12:38,763 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-12 13:12:38,877 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-12 13:12:39,112 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-14 16:54:02,826 [main] INFO ebanking - Demo QA
+2021-01-14 16:54:03,682 [main] INFO ebanking - Clicked on Elements
+2021-01-14 16:54:03,960 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-14 16:54:04,098 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-14 16:54:04,205 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 15:56:38,692 [main] INFO ebanking - Demo QA
+2021-01-15 15:56:39,949 [main] INFO ebanking - Clicked on Elements
+2021-01-15 15:56:42,224 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-15 15:56:42,334 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-15 15:56:42,430 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 16:02:37,956 [main] INFO ebanking - Demo QA
+2021-01-15 16:02:38,065 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:02:38,209 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-15 16:02:38,281 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-15 16:02:38,329 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 16:06:02,826 [main] INFO ebanking - Demo QA
+2021-01-15 16:06:03,020 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:06:03,122 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-15 16:06:03,229 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-15 16:06:03,325 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 16:17:01,644 [main] INFO ebanking - Demo QA
+2021-01-15 16:17:01,833 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:17:05,098 [main] INFO ebanking - Clicked on Forms
+2021-01-15 16:17:08,329 [main] INFO ebanking - Clicked on Alerts
+2021-01-15 16:17:11,500 [main] INFO ebanking - Clicked on Widgets
+2021-01-15 16:17:14,740 [main] INFO ebanking - Clicked on Interactions
+2021-01-15 16:17:29,465 [main] INFO ebanking - Demo QA
+2021-01-15 16:17:29,694 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:17:31,125 [main] INFO ebanking - Clicked on Text Box
+2021-01-15 16:17:31,270 [main] INFO ebanking - Entered User Name
+2021-01-15 16:17:31,415 [main] INFO ebanking - Entered Email
+2021-01-15 16:17:31,570 [main] INFO ebanking - Entered Current Address
+2021-01-15 16:17:31,707 [main] INFO ebanking - Entered Permenant Address
+2021-01-15 16:17:31,800 [main] INFO ebanking - Clicked on Submit Button
+2021-01-15 16:17:31,888 [main] INFO ebanking - Test Box value is Name:Manoj
+2021-01-15 16:17:31,889 [main] INFO ebanking - Test Passed
+2021-01-15 16:17:46,151 [main] INFO ebanking - Demo QA
+2021-01-15 16:17:46,277 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:17:46,362 [main] INFO ebanking - Clicked on Check Box Menu
+2021-01-15 16:17:46,433 [main] INFO ebanking - Clicked on + Button
+2021-01-15 16:17:46,551 [main] INFO ebanking - Desktop is Enabled
+2021-01-15 16:17:46,582 [main] INFO ebanking - Notes is Enabled
+2021-01-15 16:17:46,608 [main] INFO ebanking - Commands is Enabled
+2021-01-15 16:17:46,632 [main] INFO ebanking - Documents is Enabled
+2021-01-15 16:17:46,658 [main] INFO ebanking - Workspace is Enabled
+2021-01-15 16:17:46,683 [main] INFO ebanking - React is Enabled
+2021-01-15 16:17:46,718 [main] INFO ebanking - Angular is Enabled
+2021-01-15 16:17:46,754 [main] INFO ebanking - Veu is Enabled
+2021-01-15 16:17:46,779 [main] INFO ebanking - Office is Enabled
+2021-01-15 16:17:46,808 [main] INFO ebanking - Public is Enabled
+2021-01-15 16:17:46,836 [main] INFO ebanking - Classified is Enabled
+2021-01-15 16:17:46,868 [main] INFO ebanking - General is Enabled
+2021-01-15 16:17:46,902 [main] INFO ebanking - Downloads is Enabled
+2021-01-15 16:17:46,928 [main] INFO ebanking - Word File is Enabled
+2021-01-15 16:17:46,956 [main] INFO ebanking - Excel File is Enabled
+2021-01-15 16:17:51,960 [main] INFO ebanking - End of check boxes
+2021-01-15 16:18:03,324 [main] INFO ebanking - Demo QA
+2021-01-15 16:18:03,464 [main] INFO ebanking - Clicked on Forms
+2021-01-15 16:18:03,536 [main] INFO ebanking - Clicked on Forms Toggle
+2021-01-15 16:18:03,763 [main] INFO ebanking - Clicked on Practice Form
+2021-01-15 16:18:03,932 [main] INFO ebanking - Sports is Displayed
+2021-01-15 16:18:03,979 [main] INFO ebanking - Clicked on Sports Check Box
+2021-01-15 16:18:03,987 [main] INFO ebanking - Sports Is Not Selected
+2021-01-15 16:18:03,997 [main] INFO ebanking - Sports is Enabled
+2021-01-15 16:18:20,488 [main] INFO ebanking - Demo QA
+2021-01-15 16:18:20,598 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:18:20,680 [main] INFO ebanking - Clicked on Radio Box Menu
+2021-01-15 16:18:20,710 [main] INFO ebanking - Yes Radio Button  is Enabled
+2021-01-15 16:18:20,734 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2021-01-15 16:18:20,743 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2021-01-15 16:18:20,743 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:18:20,772 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2021-01-15 16:18:20,792 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2021-01-15 16:18:20,800 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2021-01-15 16:18:20,800 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:18:20,824 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2021-01-15 16:18:20,843 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2021-01-15 16:18:20,851 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2021-01-15 16:18:20,851 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:18:38,995 [main] INFO ebanking - Demo QA
+2021-01-15 16:18:39,188 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:18:39,256 [main] INFO ebanking - Clicked on Buttons Menu
+2021-01-15 16:18:39,443 [main] INFO ebanking - Double clicked the button
+2021-01-15 16:18:39,628 [main] INFO ebanking - Right clicked the button
+2021-01-15 16:18:39,730 [main] INFO ebanking - Clicked the button
+2021-01-15 16:18:54,874 [main] INFO ebanking - Demo QA
+2021-01-15 16:18:55,084 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:18:55,218 [main] INFO ebanking - Clicked on Links Menu
+2021-01-15 16:18:55,351 [main] INFO ebanking - Clicked on Home Link
+2021-01-15 16:18:57,463 [main] INFO ebanking - Closed New Tab
+2021-01-15 16:19:15,589 [main] INFO ebanking - We are in Links page 
+2021-01-15 16:19:15,624 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2021-01-15 16:19:15,624 [main] INFO ebanking - Total links on the Web Pages are : 
+2021-01-15 16:19:15,641 [main] INFO ebanking - 
+2021-01-15 16:19:15,656 [main] INFO ebanking - Home
+2021-01-15 16:19:15,706 [main] INFO ebanking - HomeiOCgJ
+2021-01-15 16:19:15,773 [main] INFO ebanking - Created
+2021-01-15 16:19:15,798 [main] INFO ebanking - No Content
+2021-01-15 16:19:15,810 [main] INFO ebanking - Moved
+2021-01-15 16:19:15,819 [main] INFO ebanking - Bad Request
+2021-01-15 16:19:15,830 [main] INFO ebanking - Unauthorized
+2021-01-15 16:19:15,842 [main] INFO ebanking - Forbidden
+2021-01-15 16:19:15,852 [main] INFO ebanking - Not Found
+2021-01-15 16:19:15,863 [main] INFO ebanking - 
+2021-01-15 16:19:17,061 [main] INFO ebanking - We are in Broken page 
+2021-01-15 16:19:17,082 [main] INFO ebanking - No of links are 4
+2021-01-15 16:19:18,591 [main] INFO ebanking - https://demoqa.com/ - OK
+2021-01-15 16:19:19,304 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2021-01-15 16:19:20,121 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2021-01-15 16:19:21,258 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2021-01-15 16:19:21,286 [main] INFO ebanking - Total number of Images on the Page are 4
+2021-01-15 16:19:21,306 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:19:22,181 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:19:22,202 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:19:22,219 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:19:23,360 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:19:23,376 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:19:23,394 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2021-01-15 16:19:24,426 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2021-01-15 16:19:24,443 [main] INFO ebanking - DISPLAY - BROKEN
+2021-01-15 16:19:24,462 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2021-01-15 16:19:25,659 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2021-01-15 16:19:25,680 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:19:37,827 [main] INFO ebanking - Demo QA
+2021-01-15 16:19:37,943 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:19:38,125 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-15 16:19:38,209 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-15 16:19:38,268 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 16:20:57,615 [main] INFO ebanking - URL is opened
+2021-01-15 16:28:45,883 [main] INFO ebanking - URL is opened
+2021-01-15 16:28:47,826 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:28:47,827 [main] INFO ebanking - Entered username
+2021-01-15 16:28:47,946 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:28:47,947 [main] INFO ebanking - Entered password
+2021-01-15 16:30:40,456 [main] INFO ebanking - URL is opened
+2021-01-15 16:30:40,736 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:30:40,736 [main] INFO ebanking - Entered username
+2021-01-15 16:30:40,834 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:30:40,835 [main] INFO ebanking - Entered password
+2021-01-15 16:30:59,495 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:30:59,496 [main] INFO ebanking - user name provided
+2021-01-15 16:30:59,584 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:30:59,584 [main] INFO ebanking - password provided
+2021-01-15 16:31:07,687 [main] INFO ebanking - Entered user name is mngr83460
+2021-01-15 16:31:07,688 [main] INFO ebanking - user name provided
+2021-01-15 16:31:07,759 [main] INFO ebanking - Entered Password is qAbUzyj
+2021-01-15 16:31:07,759 [main] INFO ebanking - password provided
+2021-01-15 16:31:15,394 [main] INFO ebanking - Entered user name is mngr137319
+2021-01-15 16:31:15,394 [main] INFO ebanking - user name provided
+2021-01-15 16:31:15,498 [main] INFO ebanking - Entered Password is bAdYvyb
+2021-01-15 16:31:15,500 [main] INFO ebanking - password provided
+2021-01-15 16:31:22,671 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:31:22,672 [main] INFO ebanking - user name provided
+2021-01-15 16:31:22,798 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:31:22,798 [main] INFO ebanking - password provided
+2021-01-15 16:31:29,383 [main] INFO ebanking - Entered user name is mngr112909
+2021-01-15 16:31:29,384 [main] INFO ebanking - user name provided
+2021-01-15 16:31:29,518 [main] INFO ebanking - Entered Password is tytUreg
+2021-01-15 16:31:29,519 [main] INFO ebanking - password provided
+2021-01-15 16:32:58,364 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:32:58,367 [main] INFO ebanking - User name is provided
+2021-01-15 16:32:58,443 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:32:58,444 [main] INFO ebanking - Passsword is provided
+2021-01-15 16:38:35,968 [main] INFO ebanking - Demo QA
+2021-01-15 16:38:58,956 [main] INFO ebanking - Demo QA
+2021-01-15 16:39:20,900 [main] INFO ebanking - Demo QA
+2021-01-15 16:39:43,770 [main] INFO ebanking - Demo QA
+2021-01-15 16:40:05,709 [main] INFO ebanking - Demo QA
+2021-01-15 16:40:27,674 [main] INFO ebanking - Demo QA
+2021-01-15 16:40:50,989 [main] INFO ebanking - Demo QA
+2021-01-15 16:41:15,789 [main] INFO ebanking - We are in Links page 
+2021-01-15 16:41:15,826 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2021-01-15 16:41:15,826 [main] INFO ebanking - Total links on the Web Pages are : 
+2021-01-15 16:41:15,847 [main] INFO ebanking - 
+2021-01-15 16:41:15,869 [main] INFO ebanking - Home
+2021-01-15 16:41:15,892 [main] INFO ebanking - HomedZGK5
+2021-01-15 16:41:15,916 [main] INFO ebanking - Created
+2021-01-15 16:41:15,934 [main] INFO ebanking - No Content
+2021-01-15 16:41:15,951 [main] INFO ebanking - Moved
+2021-01-15 16:41:15,968 [main] INFO ebanking - Bad Request
+2021-01-15 16:41:15,983 [main] INFO ebanking - Unauthorized
+2021-01-15 16:41:15,994 [main] INFO ebanking - Forbidden
+2021-01-15 16:41:16,005 [main] INFO ebanking - Not Found
+2021-01-15 16:41:16,016 [main] INFO ebanking - 
+2021-01-15 16:41:16,831 [main] INFO ebanking - We are in Broken page 
+2021-01-15 16:41:16,855 [main] INFO ebanking - No of links are 4
+2021-01-15 16:41:18,732 [main] INFO ebanking - https://demoqa.com/ - OK
+2021-01-15 16:41:19,961 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2021-01-15 16:41:20,935 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2021-01-15 16:41:21,469 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2021-01-15 16:41:21,515 [main] INFO ebanking - Total number of Images on the Page are 4
+2021-01-15 16:41:21,535 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:41:22,527 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:41:22,547 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:41:22,565 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:41:24,470 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:41:24,498 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:41:24,524 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2021-01-15 16:41:26,002 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2021-01-15 16:41:26,032 [main] INFO ebanking - DISPLAY - BROKEN
+2021-01-15 16:41:26,054 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2021-01-15 16:41:27,541 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2021-01-15 16:41:27,565 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:41:38,881 [main] INFO ebanking - Demo QA
+2021-01-15 16:42:00,839 [main] INFO ebanking - URL is opened
+2021-01-15 16:42:01,069 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:42:01,069 [main] INFO ebanking - Entered username
+2021-01-15 16:42:01,158 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:42:01,158 [main] INFO ebanking - Entered password
+2021-01-15 16:42:13,987 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:42:13,988 [main] INFO ebanking - user name provided
+2021-01-15 16:42:14,065 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:42:14,065 [main] INFO ebanking - password provided
+2021-01-15 16:42:21,878 [main] INFO ebanking - Entered user name is mngr83460
+2021-01-15 16:42:21,879 [main] INFO ebanking - user name provided
+2021-01-15 16:42:22,029 [main] INFO ebanking - Entered Password is qAbUzyj
+2021-01-15 16:42:22,029 [main] INFO ebanking - password provided
+2021-01-15 16:42:28,762 [main] INFO ebanking - Entered user name is mngr137319
+2021-01-15 16:42:28,762 [main] INFO ebanking - user name provided
+2021-01-15 16:42:28,937 [main] INFO ebanking - Entered Password is bAdYvyb
+2021-01-15 16:42:28,938 [main] INFO ebanking - password provided
+2021-01-15 16:42:35,677 [main] INFO ebanking - Entered user name is mngr164225
+2021-01-15 16:42:35,677 [main] INFO ebanking - user name provided
+2021-01-15 16:42:35,830 [main] INFO ebanking - Entered Password is jahetAp
+2021-01-15 16:42:35,831 [main] INFO ebanking - password provided
+2021-01-15 16:42:42,502 [main] INFO ebanking - Entered user name is mngr112909
+2021-01-15 16:42:42,502 [main] INFO ebanking - user name provided
+2021-01-15 16:42:42,662 [main] INFO ebanking - Entered Password is tytUreg
+2021-01-15 16:42:42,662 [main] INFO ebanking - password provided
+2021-01-15 16:44:00,339 [main] INFO ebanking - Login passed
+2021-01-15 16:50:36,382 [main] INFO ebanking - Demo QA
+2021-01-15 16:50:36,665 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:50:39,889 [main] INFO ebanking - Clicked on Forms
+2021-01-15 16:50:43,121 [main] INFO ebanking - Clicked on Alerts
+2021-01-15 16:50:46,315 [main] INFO ebanking - Clicked on Widgets
+2021-01-15 16:50:49,508 [main] INFO ebanking - Clicked on Interactions
+2021-01-15 16:51:03,727 [main] INFO ebanking - Demo QA
+2021-01-15 16:51:03,842 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:51:03,966 [main] INFO ebanking - Clicked on Text Box
+2021-01-15 16:51:04,061 [main] INFO ebanking - Entered User Name
+2021-01-15 16:51:04,154 [main] INFO ebanking - Entered Email
+2021-01-15 16:51:04,276 [main] INFO ebanking - Entered Current Address
+2021-01-15 16:51:04,397 [main] INFO ebanking - Entered Permenant Address
+2021-01-15 16:51:04,458 [main] INFO ebanking - Clicked on Submit Button
+2021-01-15 16:51:04,495 [main] INFO ebanking - Test Box value is Name:Manoj
+2021-01-15 16:51:04,496 [main] INFO ebanking - Test Passed
+2021-01-15 16:51:20,957 [main] INFO ebanking - Demo QA
+2021-01-15 16:51:21,147 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:51:21,221 [main] INFO ebanking - Clicked on Check Box Menu
+2021-01-15 16:51:21,313 [main] INFO ebanking - Clicked on + Button
+2021-01-15 16:51:21,549 [main] INFO ebanking - Desktop is Enabled
+2021-01-15 16:51:21,598 [main] INFO ebanking - Notes is Enabled
+2021-01-15 16:51:21,649 [main] INFO ebanking - Commands is Enabled
+2021-01-15 16:51:21,698 [main] INFO ebanking - Documents is Enabled
+2021-01-15 16:51:21,750 [main] INFO ebanking - Workspace is Enabled
+2021-01-15 16:51:21,799 [main] INFO ebanking - React is Enabled
+2021-01-15 16:51:21,848 [main] INFO ebanking - Angular is Enabled
+2021-01-15 16:51:21,896 [main] INFO ebanking - Veu is Enabled
+2021-01-15 16:51:21,947 [main] INFO ebanking - Office is Enabled
+2021-01-15 16:51:22,001 [main] INFO ebanking - Public is Enabled
+2021-01-15 16:51:22,050 [main] INFO ebanking - Classified is Enabled
+2021-01-15 16:51:22,100 [main] INFO ebanking - General is Enabled
+2021-01-15 16:51:22,139 [main] INFO ebanking - Downloads is Enabled
+2021-01-15 16:51:22,189 [main] INFO ebanking - Word File is Enabled
+2021-01-15 16:51:22,262 [main] INFO ebanking - Excel File is Enabled
+2021-01-15 16:51:27,276 [main] INFO ebanking - End of check boxes
+2021-01-15 16:51:38,328 [main] INFO ebanking - Demo QA
+2021-01-15 16:51:38,535 [main] INFO ebanking - Clicked on Forms
+2021-01-15 16:51:38,607 [main] INFO ebanking - Clicked on Forms Toggle
+2021-01-15 16:51:38,995 [main] INFO ebanking - Clicked on Practice Form
+2021-01-15 16:51:39,058 [main] INFO ebanking - Sports is Displayed
+2021-01-15 16:51:39,147 [main] INFO ebanking - Clicked on Sports Check Box
+2021-01-15 16:51:39,158 [main] INFO ebanking - Sports Is Not Selected
+2021-01-15 16:51:39,167 [main] INFO ebanking - Sports is Enabled
+2021-01-15 16:51:56,541 [main] INFO ebanking - Demo QA
+2021-01-15 16:51:56,645 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:51:56,719 [main] INFO ebanking - Clicked on Radio Box Menu
+2021-01-15 16:51:56,749 [main] INFO ebanking - Yes Radio Button  is Enabled
+2021-01-15 16:51:56,779 [main] INFO ebanking - Yes Radio Button  is Not Displayed
+2021-01-15 16:51:56,788 [main] INFO ebanking - Yes Radio Button  Is Not Selected
+2021-01-15 16:51:56,788 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:51:56,818 [main] INFO ebanking - NO Radio Button  is Not Enabled
+2021-01-15 16:51:56,846 [main] INFO ebanking - NO Radio Button  is Not Displayed
+2021-01-15 16:51:56,857 [main] INFO ebanking - NO Radio Button  Is Not Selected
+2021-01-15 16:51:56,858 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:51:56,882 [main] INFO ebanking - Impressive Radio Button  is Enabled
+2021-01-15 16:51:56,908 [main] INFO ebanking - Impressive Radio Button  is Not Displayed
+2021-01-15 16:51:56,916 [main] INFO ebanking - Impressive Radio Button  Is Not Selected
+2021-01-15 16:51:56,916 [main] INFO ebanking - :::::::::::::::: :::::::::::::::::::: :::::::::::::::::::
+2021-01-15 16:52:15,091 [main] INFO ebanking - Demo QA
+2021-01-15 16:52:15,206 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:52:15,277 [main] INFO ebanking - Clicked on Buttons Menu
+2021-01-15 16:52:15,429 [main] INFO ebanking - Double clicked the button
+2021-01-15 16:52:15,576 [main] INFO ebanking - Right clicked the button
+2021-01-15 16:52:15,622 [main] INFO ebanking - Clicked the button
+2021-01-15 16:52:31,955 [main] INFO ebanking - Demo QA
+2021-01-15 16:52:32,165 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:52:32,237 [main] INFO ebanking - Clicked on Links Menu
+2021-01-15 16:52:32,333 [main] INFO ebanking - Clicked on Home Link
+2021-01-15 16:52:44,072 [main] INFO ebanking - We are in Links page 
+2021-01-15 16:52:44,096 [main] INFO ebanking - Total No. of links on the Web Pages are : 11
+2021-01-15 16:52:44,096 [main] INFO ebanking - Total links on the Web Pages are : 
+2021-01-15 16:52:44,108 [main] INFO ebanking - 
+2021-01-15 16:52:44,119 [main] INFO ebanking - Home
+2021-01-15 16:52:44,130 [main] INFO ebanking - HomeePHGj
+2021-01-15 16:52:44,143 [main] INFO ebanking - Created
+2021-01-15 16:52:44,154 [main] INFO ebanking - No Content
+2021-01-15 16:52:44,167 [main] INFO ebanking - Moved
+2021-01-15 16:52:44,178 [main] INFO ebanking - Bad Request
+2021-01-15 16:52:44,191 [main] INFO ebanking - Unauthorized
+2021-01-15 16:52:44,201 [main] INFO ebanking - Forbidden
+2021-01-15 16:52:44,212 [main] INFO ebanking - Not Found
+2021-01-15 16:52:44,223 [main] INFO ebanking - 
+2021-01-15 16:52:44,927 [main] INFO ebanking - We are in Broken page 
+2021-01-15 16:52:44,944 [main] INFO ebanking - No of links are 4
+2021-01-15 16:52:46,273 [main] INFO ebanking - https://demoqa.com/ - OK
+2021-01-15 16:52:46,964 [main] INFO ebanking - http://demoqa.com/ - Moved Permanently
+2021-01-15 16:52:48,297 [main] INFO ebanking - http://the-internet.herokuapp.com/status_codes/500 - Internal Server Erroris a broken link
+2021-01-15 16:52:48,781 [main] INFO ebanking - https://reflect.run/?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust - OK
+2021-01-15 16:52:48,819 [main] INFO ebanking - Total number of Images on the Page are 4
+2021-01-15 16:52:48,842 [main] INFO ebanking - URL of Image 1 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:52:49,754 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:52:49,778 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:52:49,801 [main] INFO ebanking - URL of Image 2 is: https://demoqa.com/images/Toolsqa.jpg
+2021-01-15 16:52:50,452 [main] INFO ebanking - https://demoqa.com/images/Toolsqa.jpg - OK
+2021-01-15 16:52:50,468 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:52:50,486 [main] INFO ebanking - URL of Image 3 is: https://demoqa.com/images/Toolsqa_1.jpg
+2021-01-15 16:52:51,163 [main] INFO ebanking - https://demoqa.com/images/Toolsqa_1.jpg - OK
+2021-01-15 16:52:51,185 [main] INFO ebanking - DISPLAY - BROKEN
+2021-01-15 16:52:51,211 [main] INFO ebanking - URL of Image 4 is: https://demoqa.com/images/reflect-demoqa-adx2.png
+2021-01-15 16:52:52,321 [main] INFO ebanking - https://demoqa.com/images/reflect-demoqa-adx2.png - OK
+2021-01-15 16:52:52,337 [main] INFO ebanking - DISPLAY - OK
+2021-01-15 16:53:04,236 [main] INFO ebanking - Demo QA
+2021-01-15 16:53:04,434 [main] INFO ebanking - Clicked on Elements
+2021-01-15 16:53:04,737 [main] INFO ebanking - Clicked Uploads and Downloads from Menu
+2021-01-15 16:53:04,854 [main] INFO ebanking - Downloaded jpeg file Successfully
+2021-01-15 16:53:04,949 [main] INFO ebanking - Uploaded jpeg file Successfully
+2021-01-15 16:56:55,667 [main] INFO ebanking - Demo QA
+2021-01-15 16:56:55,845 [main] INFO ebanking - Clicked on Elements

@@ -30,7 +30,7 @@ public class AmazonCart {
 
 		if (browser.equalsIgnoreCase("firefox")) {
 
-			System.setProperty("webdriver.gecko.driver", "E://Softwares/geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", "./Drivers\\geckodriver.exe");
 
 			// Initialize Gecko Driver using Desired Capabilities Class
 			DesiredCapabilities capabilities = DesiredCapabilities.firefox();
@@ -41,7 +41,7 @@ public class AmazonCart {
 
 			// Initialize the chrome driver
 
-			System.setProperty("webdriver.chrome.driver", "E://Softwares/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "./Drivers\\chromedriver.exe");
 			driver = new ChromeDriver();
 
 		}

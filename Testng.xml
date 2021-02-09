@@ -25,13 +25,25 @@
 		 </classes>
 	</test> -->
 	
-	<test name="FirefoxTest">
+	<!-- <test name="FirefoxTest">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.inetbanking.practise.AmazonCart" />
 		</classes>
+	</test> -->
+	<test name="ChromeTest1">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.inetbanking.practise.AmazonCart" />
+		</classes>
 	</test>
-	<test name="ChromeTest">
+	<test name="ChromeTest2">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.inetbanking.practise.AmazonCart" />
+		</classes>
+	</test>
+	<test name="ChromeTest3">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.inetbanking.practise.AmazonCart" />

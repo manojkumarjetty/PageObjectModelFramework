@@ -5,75 +5,36 @@
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test name="PageObjectModel Test(failed)">
+  <test name="ChromeTest1(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testCases.CheckBoxElementsTest">
+      <class name="com.inetbanking.practise.AmazonCart">
         <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
+          <include name="login"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.CheckBoxElementsTest -->
-      <class name="com.inetbanking.testCases.UploadDownloadTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.UploadDownloadTest -->
-      <class name="com.inetbanking.testCases.RadioBoxElementsTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.RadioBoxElementsTest -->
-      <class name="com.inetbanking.testCases.LinksTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="LinksTest"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.LinksTest -->
-      <class name="com.inetbanking.testCases.CheckBoxesFormTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.CheckBoxesFormTest -->
-      <class name="com.inetbanking.testCases.TC_LoginDDT_002">
-        <methods>
-          <include name="loginDDT"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
-      <class name="com.inetbanking.testCases.TextBoxElementsTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TextBoxElementsTest -->
-      <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <methods>
-          <include name="setup"/>
-          <include name="loginTest"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
-      <class name="com.inetbanking.testCases.DemoQaMenusTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.DemoQaMenusTest -->
-      <class name="com.inetbanking.testCases.ButtonsTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.ButtonsTest -->
-      <class name="com.inetbanking.testCases.BrokenLinksAndImagesTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.BrokenLinksAndImagesTest -->
+      </class> <!-- com.inetbanking.practise.AmazonCart -->
     </classes>
-  </test> <!-- PageObjectModel Test(failed) -->
+  </test> <!-- ChromeTest1(failed) -->
+  <test name="ChromeTest2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetbanking.practise.AmazonCart">
+        <methods>
+          <include name="login"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.inetbanking.practise.AmazonCart -->
+    </classes>
+  </test> <!-- ChromeTest2(failed) -->
 </suite> <!-- Failed suite [PageObjectModelSuite] -->

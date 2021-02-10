@@ -1,36 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="PageObjectModelSuite" duration-ms="61855" started-at="2021-02-08T07:07:59Z" finished-at="2021-02-08T07:09:01Z">
+  <suite name="PageObjectModelSuite" duration-ms="121299" started-at="2021-02-09T14:22:34Z" finished-at="2021-02-09T14:24:35Z">
     <groups>
     </groups>
-    <test name="FirefoxTest" duration-ms="28125" started-at="2021-02-08T07:07:59Z" finished-at="2021-02-08T07:08:27Z">
+    <test name="ChromeTest1" duration-ms="39061" started-at="2021-02-09T14:22:34Z" finished-at="2021-02-09T14:23:13Z">
       <class name="com.inetbanking.practise.AmazonCart">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="beforeTest" is-config="true" duration-ms="10143" started-at="2021-02-08T12:37:59Z" finished-at="2021-02-08T12:38:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="login" duration-ms="14964" started-at="2021-02-08T12:38:10Z" finished-at="2021-02-08T12:38:25Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="afterTest" is-config="true" duration-ms="2771" started-at="2021-02-08T12:38:25Z" finished-at="2021-02-08T12:38:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- com.inetbanking.practise.AmazonCart -->
-    </test> <!-- FirefoxTest -->
-    <test name="ChromeTest" duration-ms="33399" started-at="2021-02-08T07:08:28Z" finished-at="2021-02-08T07:09:01Z">
-      <class name="com.inetbanking.practise.AmazonCart">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="beforeTest" is-config="true" duration-ms="18957" started-at="2021-02-08T12:38:28Z" finished-at="2021-02-08T12:38:47Z">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="beforeTest" is-config="true" duration-ms="17943" started-at="2021-02-09T19:52:34Z" finished-at="2021-02-09T19:52:52Z">
           <params>
             <param index="0">
               <value>
@@ -41,15 +18,61 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="login" duration-ms="13665" started-at="2021-02-08T12:38:47Z" finished-at="2021-02-08T12:39:00Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="login" duration-ms="19751" started-at="2021-02-09T19:52:52Z" finished-at="2021-02-09T19:53:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="afterTest" is-config="true" duration-ms="757" started-at="2021-02-08T12:39:00Z" finished-at="2021-02-08T12:39:01Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.inetbanking.practise.AmazonCart@7d9d1a19]" name="afterTest" is-config="true" duration-ms="1196" started-at="2021-02-09T19:53:11Z" finished-at="2021-02-09T19:53:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.inetbanking.practise.AmazonCart -->
-    </test> <!-- ChromeTest -->
+    </test> <!-- ChromeTest1 -->
+    <test name="ChromeTest2" duration-ms="39656" started-at="2021-02-09T14:23:13Z" finished-at="2021-02-09T14:23:53Z">
+      <class name="com.inetbanking.practise.AmazonCart">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="beforeTest" is-config="true" duration-ms="18314" started-at="2021-02-09T19:53:13Z" finished-at="2021-02-09T19:53:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="login" duration-ms="19881" started-at="2021-02-09T19:53:31Z" finished-at="2021-02-09T19:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.inetbanking.practise.AmazonCart@5f341870]" name="afterTest" is-config="true" duration-ms="1455" started-at="2021-02-09T19:53:51Z" finished-at="2021-02-09T19:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.inetbanking.practise.AmazonCart -->
+    </test> <!-- ChromeTest2 -->
+    <test name="ChromeTest3" duration-ms="42238" started-at="2021-02-09T14:23:53Z" finished-at="2021-02-09T14:24:35Z">
+      <class name="com.inetbanking.practise.AmazonCart">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.inetbanking.practise.AmazonCart@402a079c]" name="beforeTest" is-config="true" duration-ms="26239" started-at="2021-02-09T19:53:53Z" finished-at="2021-02-09T19:54:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.inetbanking.practise.AmazonCart@402a079c]" name="login" duration-ms="15174" started-at="2021-02-09T19:54:19Z" finished-at="2021-02-09T19:54:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.inetbanking.practise.AmazonCart@402a079c]" name="afterTest" is-config="true" duration-ms="818" started-at="2021-02-09T19:54:34Z" finished-at="2021-02-09T19:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.inetbanking.practise.AmazonCart -->
+    </test> <!-- ChromeTest3 -->
   </suite> <!-- PageObjectModelSuite -->
 </testng-results>
